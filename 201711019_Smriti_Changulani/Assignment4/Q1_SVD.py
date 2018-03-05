@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 import pandas as pd
 import numpy as np
 
@@ -13,7 +6,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.random_projection import sparse_random_matrix
 from sklearn.utils.extmath import randomized_svd
 
-ratings_df = pd.read_csv('C:/Users/Mausamee Patel/Desktop/Project/A4/finalcodefor1milliondata/ratings_1million.csv', dtype={'rating': float})
+ratings_df = pd.read_csv('C:/Users/dellpc/Desktop/Project/A4/finalcodefor1milliondata/ratings_1million.csv', dtype={'rating': float})
 print (ratings_df)
 print (ratings_df.head())
 ratings_df.loc[:,'rating'] = sk.minmax_scale(ratings_df.loc[:,'rating'] )
