@@ -12,7 +12,7 @@ from surprise import Reader
 from surprise import Dataset
 import time
 import matplotlib.pyplot as plt
-
+import psutil
 
 class MatrixFacto(surprise.AlgoBase):
     '''A basic rating prediction algorithm based on matrix factorization.'''
@@ -57,6 +57,9 @@ class MatrixFacto(surprise.AlgoBase):
             return self.trainset.global_mean
         
 timex=[]
+mem=[]
+m1=psutil.virtual_memory().percent
+
 
 start = time.time()
 df1 = pd.read_csv('C:/Users/Foram/Desktop/Project/ratings_1million1.csv', dtype={'rating': float})
@@ -68,7 +71,9 @@ result1 = surprise.evaluate(algo, data, measures=['RMSE'])
 end = time.time()
 print("Time1",end - start)
 timex.append(end-start)
-
+m2=psutil.virtual_memory().percent
+#print(m2)
+mem.append(m2)
 
 start = time.time()
 df2 = pd.read_csv('C:/Users/Foram/Desktop/Project/ratings_1million2.csv', dtype={'rating': float})
@@ -80,6 +85,9 @@ result2 = surprise.evaluate(algo, data, measures=['RMSE'])
 end = time.time()
 print("Time2",end - start)
 timex.append(end-start)
+m3=psutil.virtual_memory().percent
+#print(m2)
+mem.append(m3)
 
 
 start = time.time()
@@ -92,6 +100,9 @@ result3 = surprise.evaluate(algo, data, measures=['RMSE'])
 end = time.time()
 print("Time3",end - start)
 timex.append(end-start)
+m4=psutil.virtual_memory().percent
+#print(m2)
+mem.append(m4)
 
 
 start = time.time()
@@ -104,16 +115,49 @@ result4 = surprise.evaluate(algo, data, measures=['RMSE'])
 end = time.time()
 print("Time4",end - start)
 timex.append(end-start)
+m5=psutil.virtual_memory().percent
+#print(m2)
+mem.append(m5)
+
 
 #plot time
 y = [len(df1),len(df2),len(df3),len(df4)]
-plt.plot( timex[0],y[0], 'r^', timex[1], y[1],'bs', timex[2],y[2],'g^',timex[3], y[3],'gs')
+plt.plot( timex[0],y[0],'ro',label='100 records')
+plt.plot( timex[1], y[1],'bo',label='1000 records')
+plt.plot( timex[2],y[2],'go',label='10000 records')
+plt.plot( timex[3], y[3],'yo',label='100000 records')
+legend = plt.legend(loc='upper left',bbox_to_anchor=(1, 1))
+frame = legend.get_frame()
+plt.xlabel('Time(in sec)')
+plt.ylabel('Number of records')
+plt.title('Time Vs Number of Records')
+
 plt.show()
+
 
 #plot mean rmse
 y = [len(df1),len(df2),len(df3),len(df4)]
-plt.plot( np.mean(result1['rmse']),y[0], 'r^', np.mean(result2['rmse']), y[1],'bs', np.mean(result3['rmse']),y[2],'g^',np.mean(result4['rmse']), y[3],'gs')
+plt.plot( np.mean(result1['rmse']),y[0],'gs',label='100 records')
+plt.plot( np.mean(result2['rmse']),y[1],'rs',label='1000 records')
+plt.plot( np.mean(result3['rmse']),y[2],'bs',label='10000 records')
+plt.plot( np.mean(result4['rmse']),y[3],'ys',label='100000 records')
+legend = plt.legend(loc='upper left',bbox_to_anchor=(1, 1))
+frame = legend.get_frame()
+plt.xlabel('Mean RMSE')
+plt.ylabel('Number of records')
+plt.title('Mean RMSE Vs Number of Records')
 plt.show()
 
 #memory usage
+y = [len(df1),len(df2),len(df3),len(df4)]
+plt.plot( mem[0],y[0],'g^',label='100 records')
+plt.plot( mem[1],y[1],'r^',label='1000 records')
+plt.plot( mem[2],y[2],'b^',label='10000 records')
+plt.plot( mem[3],y[3],'y^',label='100000 records')
+legend = plt.legend(loc='upper left',bbox_to_anchor=(1, 1))
+frame = legend.get_frame()
+plt.xlabel('% of Memory Usage')
+plt.ylabel('Number of records')
+plt.title('% of Memory Usage Vs Number of Records')
+plt.show()
 
