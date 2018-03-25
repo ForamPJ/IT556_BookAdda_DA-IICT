@@ -12,22 +12,19 @@ from surprise import Dataset
 from surprise.model_selection import cross_validate
 from surprise import Reader
 import time
-import matplotlib.pyplot as plt
-start = time.time()
-
 import psutil
-import os
+import matplotlib.pyplot as plt
+
+
+
 x=[]
 timex=[]
 mem=[]
-
-
-
-process=psutil.Process(os.getpid())
-m1=process.memory_info().rss
+m1=psutil.virtual_memory().percent
 #print(m1)    
 
-  
+
+start = time.time() 
 df1 = pd.read_csv('C:/Users/Foram/Desktop/Project/ratings_1million1.csv', dtype={'rating': float})
 reader = Reader(rating_scale=(1, 5))
 data = Dataset.load_from_df(df1[['user_id','book_id','rating']], reader)
@@ -38,9 +35,8 @@ x.append(np.mean(result1['test_rmse']))
 end = time.time()
 #print("Time1",end - start)
 timex.append(end-start)
-process=psutil.Process(os.getpid())
-m2=process.memory_info().rss
-m2=m2-m1
+#process=psutil.Process(os.getpid())
+m2=psutil.virtual_memory().percent
 #print(m2)
 mem.append(m2)
 
@@ -55,9 +51,9 @@ x.append(np.mean(result2['test_rmse']))
 end = time.time()
 #print("Time2",end - start)
 timex.append(end-start)
-process=psutil.Process(os.getpid())
-m3=process.memory_info().rss
-m3=m3-m1
+#process=psutil.Process(os.getpid())
+m3=psutil.virtual_memory().percent
+
 #print(m3)
 mem.append(m3)
 
@@ -71,9 +67,8 @@ x.append(np.mean(result3['test_rmse']))
 end = time.time()
 #print("Time3",end - start)
 timex.append(end-start)
-process=psutil.Process(os.getpid())
-m4=process.memory_info().rss
-m4=m4-m1
+#process=psutil.Process(os.getpid())
+m4=psutil.virtual_memory().percent
 #print(m4)
 mem.append(m4)
 
@@ -87,9 +82,8 @@ x.append(np.mean(result4['test_rmse']))
 end = time.time()
 #print("Time4",end - start)
 timex.append(end-start)
-process=psutil.Process(os.getpid())
-m5=process.memory_info().rss
-m5=m5-m1
+#process=psutil.Process(os.getpid())
+m5=psutil.virtual_memory().percent
 #print(m5)
 mem.append(m5)
  
@@ -101,12 +95,12 @@ plt.plot( timex[0],y[0],'ro',label='100 records')
 plt.plot( timex[1], y[1],'bo',label='1000 records')
 plt.plot( timex[2],y[2],'go',label='10000 records')
 plt.plot( timex[3], y[3],'yo',label='100000 records')
-legend = plt.legend(loc='upper left')
+legend = plt.legend(loc='upper left',bbox_to_anchor=(1, 1))
 frame = legend.get_frame()
 plt.xlabel('Time(in sec)')
 plt.ylabel('Number of records')
 plt.title('Time Vs Number of Records')
-plt.legends()
+
 plt.show()
 
 
@@ -115,7 +109,7 @@ plt.plot( x[0],y[0],'gs',label='100 records')
 plt.plot( x[1],y[1],'rs',label='1000 records')
 plt.plot( x[2],y[2],'bs',label='10000 records')
 plt.plot( x[3],y[3],'ys',label='100000 records')
-legend = plt.legend(loc='upper left')
+legend = plt.legend(loc='upper left',bbox_to_anchor=(1, 1))
 frame = legend.get_frame()
 plt.xlabel('Mean RMSE')
 plt.ylabel('Number of records')
@@ -129,11 +123,11 @@ plt.plot( mem[0],y[0],'g^',label='100 records')
 plt.plot( mem[1],y[1],'r^',label='1000 records')
 plt.plot( mem[2],y[2],'b^',label='10000 records')
 plt.plot( mem[3],y[3],'y^',label='100000 records')
-legend = plt.legend(loc='upper left')
+legend = plt.legend(loc='upper left',bbox_to_anchor=(1, 1))
 frame = legend.get_frame()
-plt.xlabel('Memory Usage')
+plt.xlabel('% of Memory Usage')
 plt.ylabel('Number of records')
-plt.title('Memory Usage Vs Number of Records')
+plt.title('% of Memory Usage Vs Number of Records')
 plt.show()
 
 
