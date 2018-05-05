@@ -1,0 +1,901 @@
+id,book_id,isbn,authors,original_publication_year,original_title,title,language_code,average_rating,ratings_count,genres
+1,1,439023483,Suzanne Collins,2008,The Hunger Games,"The Hunger Games (The Hunger Games, #1)",eng,4.34,4780653,"Utopian , dystopian fiction; Adventure fiction; Science Fiction; Drama; Action fiction"
+2,2,439554934,"J.K. Rowling, Mary GrandPré",1997,Harry Potter and the Philosopher's Stone,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",eng,4.44,4602479,Fantasy Fiction
+3,3,316015849,Stephenie Meyer,2005,Twilight,"Twilight (Twilight, #1)",en-US,3.57,3866839,Fantasy Fiction; Young adult fiction
+4,4,61120081,Harper Lee,1960,To Kill a Mockingbird,To Kill a Mockingbird,eng,4.25,3198671,Southern Gothic; Coming-of-Age Fiction; Bildungsroman
+5,5,743273567,F. Scott Fitzgerald,1925,The Great Gatsby,The Great Gatsby,eng,3.89,2683664,Novel; Historical Fiction
+6,6,525478817,John Green,2012,The Fault in Our Stars,The Fault in Our Stars,eng,4.26,2346404,Young adult fiction
+7,7,618260307,J.R.R. Tolkien,1937,The Hobbit or There and Back Again,The Hobbit,en-US,4.25,2071616,High fantasy; Juvenile fantasy
+8,8,316769177,J.D. Salinger,1951,The Catcher in the Rye,The Catcher in the Rye,eng,3.79,2044241,Literary realism; Coming-of-Age Fiction
+9,9,1416524797,Dan Brown,2000,Angels & Demons ,"Angels & Demons  (Robert Langdon, #1)",en-CA,3.85,2001311,Novel; Fiction; Thriller; Suspense; Mystery; Speculative fiction; Crime Fiction;Conspiracy fiction
+10,10,679783261,Jane Austen,1813,Pride and Prejudice,Pride and Prejudice,eng,4.24,2035490,Drama;Romance
+11,11,1594480001,Khaled Hosseini,2003,The Kite Runner ,The Kite Runner,eng,4.26,1813044,Historical Fiction; Drama
+12,12,62024035,Veronica Roth,2011,Divergent,"Divergent (Divergent, #1)",eng,4.24,1903563,"Science Fiction; Utopian , dystopian fiction; Young adult fiction"
+13,13,451524934,"George Orwell, Erich Fromm, Celâl Üster",1949,Nineteen Eighty-Four,1984,eng,4.14,1956832," Utopian , dystopian fiction; Political fiction; Social science fiction"
+14,14,452284244,George Orwell,1945,Animal Farm: A Fairy Story,Animal Farm,eng,3.87,1881700,Satire; Political satire
+15,15,553296981,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",1947,Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,The Diary of a Young Girl,eng,4.1,1972666,Autobiography
+16,16,307269752,"Stieg Larsson, Reg Keeland",2005,Män som hatar kvinnor,"The Girl with the Dragon Tattoo (Millennium, #1)",eng,4.11,1808403,"Crime Fiction; Mystery; Thriller; Sc,inavian noir"
+17,17,439023491,Suzanne Collins,2009,Catching Fire,"Catching Fire (The Hunger Games, #2)",eng,4.3,1831039,Adventure fiction; Dystopia; Science Fiction
+18,18,043965548X,"J.K. Rowling, Mary GrandPré, Rufus Beck",1999,Harry Potter and the Prisoner of Azkaban,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",eng,4.53,1832823, Fantasy Fiction
+19,19,618346252,J.R.R. Tolkien,1954, The Fellowship of the Ring,"The Fellowship of the Ring (The Lord of the Rings, #1)",eng,4.34,1766803,Fantasy
+20,20,439023513,Suzanne Collins,2010,Mockingjay,"Mockingjay (The Hunger Games, #3)",eng,4.03,1719760, Adventure fiction; War story; Science Fiction
+21,21,439358078,"J.K. Rowling, Mary GrandPré",2003,Harry Potter and the Order of the Phoenix,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",eng,4.46,1735368,Fantasy Fiction
+22,22,316166685,Alice Sebold,2002,The Lovely Bones,The Lovely Bones,eng,3.77,1605173,Novel; Fiction; Psychological Fiction; Domestic Fiction
+23,23,439064864,"J.K. Rowling, Mary GrandPré",1998,Harry Potter and the Chamber of Secrets,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",eng,4.37,1779331,Fantasy; Detective fiction
+24,24,439139600,"J.K. Rowling, Mary GrandPré",2000,Harry Potter and the Goblet of Fire,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",eng,4.53,1753043, Fantasy Fiction
+25,25,545010225,"J.K. Rowling, Mary GrandPré",2007,Harry Potter and the Deathly Hallows,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",eng,4.61,1746574, Fantasy Fiction
+26,26,307277674,Dan Brown,2003,The Da Vinci Code,"The Da Vinci Code (Robert Langdon, #2)",eng,3.79,1447148, Mystery; Detective fiction; Conspiracy fiction; Thriller
+27,27,439785960,"J.K. Rowling, Mary GrandPré",2005,Harry Potter and the Half-Blood Prince,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",eng,4.54,1678823,Fantasy Fiction
+28,28,140283331,William Golding,1954,Lord of the Flies ,Lord of the Flies,eng,3.64,1605019,Novel; Allegory; Fiction; Young adult fiction; Speculative fiction; Psychological Fiction
+29,29,743477111,"William Shakespeare, Robert           Jackson",1595,An Excellent conceited Tragedie of Romeo and Juliet,Romeo and Juliet,eng,3.73,1628519,Tragedy;Romance;Musical Theatre
+30,30,297859382,Gillian Flynn,2012,Gone Girl,Gone Girl,eng,4.03,512475,Thriller
+31,31,399155341,Kathryn Stockett,2009,The Help,The Help,eng,4.45,1531753,Novel; Fiction; Historical Fiction
+32,32,142000671,John Steinbeck,1937,Of Mice and Men ,Of Mice and Men,eng,3.84,1467496,Novella; Fiction; Tragedy
+33,33,739326228,Arthur Golden,1997,Memoirs of a Geisha,Memoirs of a Geisha,eng,4.08,1300209, Historical Fiction
+34,34,1612130291,E.L. James,2011,Fifty Shades of Grey,"Fifty Shades of Grey (Fifty Shades, #1)",eng,3.67,1338493,Erotic romance novel
+35,35,61122416,"Paulo Coelho, Alan R. Clarke",1988,O Alquimista,The Alchemist,eng,3.82,1299566,Quest; Adventure fiction; Fantasy Fiction
+36,36,385732554,Lois Lowry,1993,The Giver,"The Giver (The Giver, #1)",eng,4.12,1296825,"Young adult fiction; Utopian , dystopian fiction; Science Fiction"
+37,37,60764899,C.S. Lewis,1950,"The Lion, the Witch and the Wardrobe","The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",eng,4.19,1531800,Christian literature
+38,38,965818675,Audrey Niffenegger,2003,The Time Traveler's Wife,The Time Traveler's Wife,eng,3.95,746287,Novel; Romance novel; Fiction; Science Fiction; Speculative fiction; Fantasy Fiction;Domestic Fiction
+39,39,553588486,George R.R. Martin,1996,A Game of Thrones,"A Game of Thrones (A Song of Ice and Fire, #1)",eng,4.45,1319204,High fantasy; Political fantasy
+40,40,143038419,Elizabeth Gilbert,2006,"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia","Eat, Pray, Love",eng,3.51,1181647,Memoir
+41,41,786838655,Rick Riordan,2005,The Lightning Thief,"The Lightning Thief (Percy Jackson and the Olympians, #1)",eng,4.23,1366265,Fantasy; Greek mythology; Young adult fiction
+42,42,451529308,Louisa May Alcott,1868,Little Women,"Little Women (Little Women, #1)",en-US,4.04,1257121,Coming-of-Age Fiction; Bildungsroman
+43,43,142437204,"Charlotte Brontë, Michael Mason",1847,Jane Eyre,Jane Eyre,eng,4.1,1198557,Novel
+44,44,553816713,Nicholas Sparks,1996,The Notebook,"The Notebook (The Notebook, #1)",eng,4.06,1053403,Novel;Romance
+45,45,770430074,Yann Martel,2001,Life of Pi,Life of Pi,,3.88,1003228,Fiction;Adventure
+46,46,1565125606,Sara Gruen,2006,Water for Elephants,Water for Elephants,eng,4.07,1068146,Novel; Fiction; Romance novel; Historical Fiction
+47,47,375831002,Markus Zusak,2005,The Book Thief,The Book Thief,eng,4.36,1159741,Novel; Fiction; Young adult fiction; Historical Fiction
+48,48,307347974,Ray Bradbury,1953,Fahrenheit 451,Fahrenheit 451,spa,3.97,570498,"Utopian , dystopian fiction"
+49,49,316160199,Stephenie Meyer,2006,"New Moon (Twilight, #2)","New Moon (Twilight, #2)",eng,3.52,1149630,Young adult fiction; Romance novel; Vampire literature
+50,50,60513039,Shel Silverstein,1974,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,Where the Sidewalk Ends,eng,4.29,1016888,Children's poetry
+51,51,1416914285,Cassandra Clare,2007,City of Bones,"City of Bones (The Mortal Instruments, #1)",eng,4.12,1154031,Fantasy;Adventure
+52,52,316160202,Stephenie Meyer,2007,Eclipse,"Eclipse (Twilight, #3)",en-US,3.69,1134511,Young adult fiction; Fantasy Fiction; Romance novel; Vampire literature
+53,53,375826696,Christopher Paolini,2002,Eragon,"Eragon (The Inheritance Cycle, #1)",en-US,3.86,1104021,"Young adult fiction; Fantasy; Utopian , dystopian fiction; Bildungsroman"
+54,54,345391802,Douglas Adams,1979,The Hitchhiker's Guide to the Galaxy,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",en-US,4.2,936782, Comic science fiction
+55,55,60929871,Aldous Huxley,1932,Brave New World,Brave New World,eng,3.97,1022601,"Science Fiction; Utopian , dystopian fiction"
+56,56,031606792X,Stephenie Meyer,2008,Breaking Dawn,"Breaking Dawn (Twilight, #4)",en-US,3.7,1070245,Paranormal romance; Young adult fiction
+57,57,142001740,Sue Monk Kidd,2001,The Secret Life of Bees,The Secret Life of Bees,en-US,4.01,916189,Fiction
+58,58,142437174,"Mark Twain, John Seelye, Guy Cardwell",1884,The Adventures of Huckleberry Finn,The Adventures of Huckleberry Finn,eng,3.8,953758, Picaresque Fiction
+59,59,64410935,"E.B. White, Garth Williams, Rosemary Wells",1952,Charlotte's Web,Charlotte's Web,eng,4.15,1064521,Children's literature
+60,60,1400032717,Mark Haddon,2003,The Curious Incident of the Dog in the Night-Time,The Curious Incident of the Dog in the Night-Time,eng,3.85,867553,Mystery
+61,61,1594633665,Paula Hawkins,2015,The Girl on the Train,The Girl on the Train,eng,3.88,1008778,Thriller; Fiction; Suspense; Psychological Fiction
+62,62,679879242,Philip Pullman,1995,Northern Lights,"The Golden Compass (His Dark Materials, #1)",eng,3.94,953970,Juvenile fantasy; Fantasy
+63,63,393978893,"Emily Brontë, Richard J. Dunn",1847,Wuthering Heights,Wuthering Heights,eng,3.82,899195,Tragedy
+64,64,743454537,Jodi Picoult,2004,My Sister's Keeper,My Sister's Keeper,eng,4.06,863879,Novel; Fiction; Domestic Fiction
+65,65,385333846,Kurt Vonnegut Jr.,1969,"Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death ",Slaughterhouse-Five,eng,4.06,846488,Black comedy; Satire; Science Fiction; War story; Metafiction; Postmodernism
+66,66,446675539,Margaret Mitchell,1936,Gone with the Wind,Gone with the Wind,eng,4.28,873981,Historical Fiction
+67,67,1594489505,Khaled Hosseini,2007,A Thousand Splendid Suns,A Thousand Splendid Suns,eng,4.34,818742,Novel; Fiction
+68,68,671027344,Stephen Chbosky,1999,The Perks of Being a Wallflower,The Perks of Being a Wallflower,eng,4.21,888806,Fiction; Young adult fiction; Epistolary novel; Bildungsroman
+69,69,7442912,Veronica Roth,2012,Insurgent,"Insurgent (Divergent, #2)",eng,4.07,836362,"Science Fiction; Utopian , dystopian fiction; Romance novel; Young adult fiction"
+70,70,812550706,Orson Scott Card,1985,Ender's Game,"Ender's Game (Ender's Saga, #1)",eng,4.3,813439,Science Fiction
+71,71,141439475,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",1818,"Frankenstein; or, The Modern Prometheus",Frankenstein,eng,3.75,808589,Gothic fiction; Horror fiction; Soft science fiction
+72,72,450040186,Stephen King,1977,The Shining,The Shining (The Shining #1),eng,4.17,791850,Gothic Novel;Horror;Psychological Horror
+73,73,316068047,Stephenie Meyer,2008,The Host,"The Host (The Host, #1)",en-US,3.84,749780,Science Fiction; Romance novel; Thriller; Dystopia
+74,74,142402516,John Green,2005,Looking for Alaska,Looking for Alaska,eng,4.09,783470,Young adult fiction
+75,75,014028009X,Helen Fielding,1996,"Bridget Jones's Diary (Bridget Jones, #1)","Bridget Jones's Diary (Bridget Jones, #1)",eng,3.75,736498,Comedy Novel
+76,76,141439661,"Jane Austen, Tony Tanner, Ros Ballaster",1811,Sense and Sensibility,Sense and Sensibility,eng,4.06,738894,Romance novel
+77,77,439244196,"Louis Sachar, Louis Sachar",1998,Holes,"Holes (Holes, #1)",eng,3.93,747445,Satire; Adventure fiction
+78,78,307275558,Lauren Weisberger,2003,The Devil Wears Prada,"The Devil Wears Prada (The Devil Wears Prada, #1)",eng,3.7,665930,Chick lit
+79,79,143039954,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",2004,The Odyssey,The Odyssey,eng,3.73,670326,Epic poetry; Epic
+80,80,156012197,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",1946,Le Petit Prince,The Little Prince,eng,4.28,738757,Fable; Fiction;Children's literature; Novella;Speculative fiction
+81,81,074324754X,Jeannette Walls,2005,The Glass Castle,The Glass Castle,eng,4.24,621099,Memoir
+82,82,385486804,Jon Krakauer,1996,Into the Wild,Into the Wild,eng,3.94,647684,Biography; Non-fiction; Autobiography; Speculative fiction; Guidebook; Travel literature
+83,83,141439602,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",1859,A Tale of Two Cities,A Tale of Two Cities,eng,3.81,637412,Historical Fiction
+84,84,030734813X,Michael Crichton,1990,Jurassic Park,"Jurassic Park (Jurassic Park, #1)",spa,3.96,447833,Hard science fiction; Techno-thriller; Horror fiction
+85,85,60256656,Shel Silverstein,1964,The Giving Tree,The Giving Tree,eng,4.38,702332,Picture book
+86,86,385338600,John Grisham,1989,A Time to Kill,A Time to Kill,eng,4.03,597775,Legal thriller
+87,87,374500010,"Elie Wiesel, Marion Wiesel",1958,Un di Velt Hot Geshvign,Night (The Night Trilogy #1),eng,4.3,691231,Memoir
+88,88,014241493X,John Green,2008,Paper Towns,Paper Towns,en-US,3.88,461311,Young adult fiction; Mystery
+89,89,345418263,William Goldman,1973,The Princess Bride,The Princess Bride ,en-US,4.25,628637,Fantasy Fiction; Romance
+90,90,014038572X,S.E. Hinton,1967,The Outsiders,The Outsiders,en-US,4.06,659248,Young adult fiction
+91,91,385737947,James Dashner,2009,The Maze Runner,"The Maze Runner (Maze Runner, #1)",eng,4.02,719925,Young adult fiction; Science Fiction; Post-Apocalyptic fiction
+92,92,61234001,"Steven D. Levitt, Stephen J. Dubner",2005,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",en-US,3.93,524191,�Non-fiction
+93,93,517189607,Frances Hodgson Burnett,1911,The Secret Garden,The Secret Garden,eng,4.12,639357,Children's literature
+94,94,60531045,"Gabriel García Márquez, Gregory Rabassa",1967,Cien años de soledad,One Hundred Years of Solitude,eng,4.04,490565,Magical Realism; Novel
+95,95,375751513,"Oscar Wilde, Jeffrey Eugenides",1891,The Picture of Dorian Gray,The Picture of Dorian Gray,eng,4.06,590014,Philosophical fiction; Decadent movement
+96,96,345803507,E.L. James,2012,Fifty Shades Freed,"Fifty Shades Freed (Fifty Shades, #3)",eng,3.88,387290,Erotic romance novel
+97,97,393970124,"Bram Stoker, Nina Auerbach, David J. Skal",1897,Dracula,Dracula,eng,3.98,618973,Horror fiction; Gothic fiction
+98,98,307269981,"Stieg Larsson, Reg Keeland",2006,Flickan som lekte med elden,"The Girl Who Played with Fire (Millennium, #2)",eng,4.22,563994,Crime Fiction;Mystery;Thriller
+99,99,1612130585,E.L. James,2011,Fifty Shades Darker,"Fifty Shades Darker (Fifty Shades, #2)",eng,3.87,552059,Erotic romance novel
+100,100,60786507,Barbara Kingsolver,1998,The Poisonwood Bible,The Poisonwood Bible,eng,4.02,546502,Historical Fiction
+101,101,349113912,David Sedaris,2000,Me Talk Pretty One Day,Me Talk Pretty One Day,eng,3.97,495736,Essay
+102,102,99408392,Maurice Sendak,1963,Where the Wild Things Are,Where the Wild Things Are,eng,4.22,620618,Picture book; Children's literature; Fiction; Speculative fiction; Fantasy Fiction
+103,103,140449264,"Alexandre Dumas, Robin Buss",1844,Le Comte de Monte-Cristo,The Count of Monte Cristo,eng,4.21,555822,Historical Fiction; Adventure fiction
+104,104,307265439,Cormac McCarthy,2006,The Road,The Road,eng,3.95,504793,Post-Apocalyptic fiction
+105,105,7524277,Veronica Roth,2013,Allegiant,"Allegiant (Divergent, #3)",eng,3.63,463257,Dystopia; Romance novel; Young adult fiction
+106,106,,Tina Fey,2011,Bossypants,Bossypants,eng,3.94,506250,Autobiography
+107,107,446693804,Nicholas Sparks,1999,A Walk to Remember,A Walk to Remember,en-US,4.15,546948,Romance novel
+108,108,440241413,Sophie Kinsella,2000,Room,"Confessions of a Shopaholic (Shopaholic, #1)",eng,3.61,543658,Romantic;Comedy
+109,109,451525264,"Victor Hugo, Lee Fahnestock, Norman MacAfee",1862,Les Misérables,Les Misérables,eng,4.14,513407,?Epic novel; historical fiction
+110,110,553381695,George R.R. Martin,1998,A Clash of Kings,"A Clash of Kings  (A Song of Ice and Fire, #2)",eng,4.4,523303,Fantasy
+111,111,143037145,Kim Edwards,2005,The Memory Keeper's Daughter,The Memory Keeper's Daughter,eng,3.64,501430,Novel; Fiction; Psychological Fiction; Domestic Fiction
+112,112,670026603,Jojo Moyes,2012,Me Before You,"Me Before You (Me Before You, #1)",eng,4.27,587647,Romance novel
+113,113,684833395,Joseph Heller,1961,Catch-22,Catch-22,en-US,3.98,563265,Black comedy; Absurdist fiction; Satire; War story; Historical Fiction
+114,114,751529818,"Mitch Albom, Saulius Dagys",1997,Tuesdays with Morrie,Tuesdays with Morrie,eng,4.06,556518,Biographical Fiction; Philosophical fiction; Memoir
+115,115,312422156,Jeffrey Eugenides,2002,Middlesex,Middlesex,en-US,3.98,488243,Family saga
+116,116,143039563,"Mark Twain, Guy Cardwell, John Seelye",1876,The Adventures of Tom Sawyer,The Adventures of Tom Sawyer,eng,3.89,555359,Bildungsroman; Picaresque Fiction; Satire; Folklore; Children's literature
+117,117,440498058,Madeleine L'Engle,1962,A Wrinkle in Time,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",en-US,4.04,615907,Young adult fiction; Science fantasy
+118,118,143038095,Amy Tan,1989,The Joy Luck Club,The Joy Luck Club,eng,3.9,515090,Fiction
+119,119,038549081X,Margaret Atwood,1985,The Handmaid's Tale,The Handmaid's Tale,eng,4.06,607889,"Utopian , dystopian fiction; Speculative fiction"
+120,120,385729332,Ann Brashares,2001,The Sisterhood of the Traveling Pants,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",eng,3.75,525706,Young adult fiction
+121,121,,"Vladimir Nabokov, Craig Raine",1955,Lolita,Lolita,eng,3.88,469836,Novel
+122,122,60987103,"Gregory Maguire, Douglas Smith",1995,Wicked: The Life and Times of the Wicked Witch of the West,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",eng,3.52,506900,Fantasy Fiction
+123,123,582418275,John Grisham,1991,The Firm,"The Firm (Penguin Readers, Level 5)",eng,3.99,488269,Legal thriller
+124,124,316098337,Emma Donoghue,2010,Room,Room,eng,4.03,511360,Novel
+125,125,521618746,"William Shakespeare, Richard Andrews, Rex Gibson",1600,"The Tragicall Historie of Hamlet, Prince of Denmark",Hamlet,eng,4,515820,Tragedy
+126,126,340839937,Frank Herbert,1965,Dune,Dune (Dune Chronicles #1),eng,4.19,485032,Science Fiction
+127,127,316346624,Malcolm Gladwell,2000,The Tipping Point: How Little Things Can Make a Big Difference,The Tipping Point: How Little Things Can Make a Big Difference,eng,3.92,490504,Non-fiction
+128,128,1451648537,Walter Isaacson,2011,Steve Jobs,Steve Jobs,eng,4.09,560715,Biography
+129,129,451163966,Ken Kesey,1962,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,eng,4.18,491642,Novel; Allegory; Drama; Fiction; Psychological Fiction; Medical fiction
+130,130,684830493,Ernest Hemingway,1952,The Old Man and the Sea,The Old Man and the Sea,eng,3.73,520630,Literary fiction
+131,131,142000663,John Steinbeck,1939,The Grapes of Wrath,The Grapes of Wrath,eng,3.92,322321,Novel
+132,132,1401308589,Mitch Albom,2003,The Five People You Meet in Heaven,The Five People You Meet in Heaven,,3.9,449501,Inspirational Fiction; Philosophical fiction
+133,133,451528824,L.M. Montgomery,1908,Anne of Green Gables,"Anne of Green Gables (Anne of Green Gables, #1)",eng,4.23,502247,Novel
+134,134,1416914307,Cassandra Clare,2009,City of Glass,"City of Glass (The Mortal Instruments, #3)",en-US,4.34,593173,Fiction; Young adult fiction; Fantasy Fiction; Adventure fiction; Paranormal fiction
+135,135,055357342X,George R.R. Martin,2000,A Storm of Swords,"A Storm of Swords (A Song of Ice and Fire, #3)",eng,4.54,469022,Fantasy
+136,136,006075995X,Rebecca Wells,1996,Divine Secrets of the Ya-Ya Sisterhood,Divine Secrets of the Ya-Ya Sisterhood,en-US,3.79,465676,Novel; Fiction; Domestic Fiction
+137,137,440242940,Diana Gabaldon,1991,Outlander,"Outlander (Outlander, #1)",eng,4.2,515547,Historical Fiction; Romance novel; Science fantasy
+138,138,142437263,"Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym",1850,The Scarlet Letter,The Scarlet Letter,eng,3.37,509883,Romanticism; Historical Fiction
+139,139,1594744769,Ransom Riggs,2011,Miss Peregrine's Home for Peculiar Children,"Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)",en-US,3.89,613674,Young adult fiction; Fantasy
+140,140,030726999X,"Stieg Larsson, Reg Keeland",2007,Luftslottet som sprängdes,"The Girl Who Kicked the Hornet's Nest (Millennium, #3)",en-US,4.2,443951,Crime Fiction;Thriller;Mystery
+141,141,804139024,Andy Weir,2012,The Martian,The Martian,eng,4.39,423344,Science Fiction
+142,142,451207149,Ken Follett,1989,The Pillars of the Earth,"The Pillars of the Earth (The Kingsbridge Series, #1)",eng,4.29,462517,Historical Fiction
+143,143,1476746583,Anthony Doerr,2014,All the Light We Cannot See,All the Light We Cannot See,eng,4.31,470001,Historical Fiction
+144,144,1400064163,Laura Hillenbrand,2010,"Unbroken: A World War II Story of Survival, Resilience, and Redemption","Unbroken: A World War II Story of Survival, Resilience, and Redemption",eng,4.4,487775,Non-fiction
+145,145,671027387,Dan Brown,2001,Deception Point,Deception Point,eng,3.67,455610,Fiction; Science Fiction; Thriller; Suspense; Speculative fiction; Political fiction; Techno-thriller
+146,146,316055433,Donna Tartt,2013,The Goldfinch,The Goldfinch,eng,3.87,396756,Bildungsroman; Thriller; Suspense; Literary fiction
+147,147,1595141715,Jay Asher,2007,Thirteen Reasons Why,Thirteen Reasons Why,eng,4.02,463783,Young adult fiction
+148,148,452287022,Tracy Chevalier,1999,Girl with a Pearl Earring,Girl with a Pearl Earring,eng,3.85,467577,Historical Fiction
+149,149,525421033,Gayle Forman,2009,If I Stay,"If I Stay (If I Stay, #1)",en-US,3.96,503527,Young adult fiction
+150,150,312353766,Anita Diamant,1997,The Red Tent,The Red Tent,en-US,4.16,424981,Young adult fiction
+151,151,786856866,Rick Riordan,2006,The Sea of Monsters,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",eng,4.23,514932,Fantasy; Greek mythology; Young adult fiction
+152,152,446528056,Nicholas Sparks,2006,Dear John,Dear John,en-US,4.01,441062,Fiction
+153,153,1416914293,Cassandra Clare,2008,City of Ashes,"City of Ashes (The Mortal Instruments, #2)",eng,4.21,541117,Fiction; Young adult fiction; Speculative fiction; Fantasy Fiction; Adventure fiction
+154,154,743477103,William Shakespeare,1606,The Tragedy of Macbeth,Macbeth,eng,3.88,496018,Tragedy
+155,155,618346260,J.R.R. Tolkien,1954,The Two Towers,"The Two Towers (The Lord of the Rings, #2)",en-US,4.42,480446,Fantasy
+156,156,031232118X,Emily Giffin,2004,Something Borrowed,"Something Borrowed (Darcy & Rachel, #1)",eng,3.83,403601,Chick lit; Romance novel; Humorous Fiction
+157,157,394800168,"Dr. Seuss, לאה נאור",1960,Green Eggs and Ham,Green Eggs and Ham,en-US,4.29,457475,Fairy tale; Fiction; Humour; Children's literature; Speculative fiction; Fantasy Fiction
+158,158,142403881,"Roald Dahl, Quentin Blake",1964,Charlie and the Chocolate Factory,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",eng,4.1,453959,Fairy tale; Fiction; Humour; Children's literature; Speculative fiction; Fantasy Fiction
+159,159,1423101464,Rick Riordan,2008,The Battle of the Labyrinth,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",eng,4.39,508214,Fantasy; Greek mythology; Young adult fiction
+160,160,192833596,Charles Dickens,1860,Great Expectations,Great Expectations,eng,3.75,459247,Novel
+161,161,345339738,J.R.R. Tolkien,1955,The Return of the King,"The Return of the King (The Lord of the Rings, #3)",en-US,4.51,463959,Fantasy
+162,162,,"Albert Camus, Matthew    Ward",1942,L’Étranger,The Stranger,eng,3.96,420600,Philosophical fiction
+163,163,142311339X,Rick Riordan,2010,The Lost Hero,"The Lost Hero (The Heroes of Olympus, #1)",eng,4.35,271576,Fantasy;Greek Mythology
+164,164,1250012570,Rainbow Rowell,2013,Eleanor & Park,Eleanor & Park,eng,4.11,514312,Romance novel
+165,165,055358202X,George R.R. Martin,2005,A Feast for Crows,"A Feast for Crows (A Song of Ice and Fire, #4)",en-US,4.1,428186,Fantasy Fiction
+166,166,525423648,Ally Condie,2010,Matched,"Matched (Matched, #1)",eng,3.68,511815,"Young adult fiction; Romance novel; Utopian , dystopian fiction; Science Fiction"
+167,167,747263744,Neil Gaiman,2001,American Gods,"American Gods (American Gods, #1)",eng,4.11,378019,Fantasy
+168,168,385199570,"Stephen King, Bernie Wrightson",1978,The Stand,The Stand,en-US,4.34,438832,Post-Apocalyptic fiction
+169,169,446547565,Nicholas Sparks,2008,The Last Song,The Last Song,en-GB,4.14,424637,Romance novel; Tragedy
+170,170,552151696,Dan Brown,1998,Digital Fortress,Digital Fortress,en-GB,3.6,423019,Mystery; Techno-thriller
+171,171,141439580,"Jane Austen, Fiona Stafford",1815,Emma,Emma,eng,3.99,459826,Literary realism
+172,172,345803922,"Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude",1877,Анна Каренина,Anna Karenina,eng,4.02,297472,Literary realism
+173,173,393312836,Anthony Burgess,1962,A Clockwork Orange,A Clockwork Orange,eng,3.98,431195,"Science Fiction; Utopian , dystopian fiction; Satire; Black comedy"
+174,174,964729237,William Paul Young,2007,The Shack: Where Tragedy Confronts Eternity,The Shack,eng,3.74,419539,Fiction
+175,175,739380338,Rick Riordan,2009,The Last Olympian,"The Last Olympian (Percy Jackson and the Olympians, #5)",eng,4.5,397500,Fantasy Fiction; Greek mythology; Young adult fiction
+176,176,451169514,Stephen King,1986,It,It,en-US,4.18,292592,Horror fiction; Thriller; Coming-of-Age Fiction
+177,177,143058142,"Fyodor Dostoyevsky, David McDuff",1866,Преступление и наказание,Crime and Punishment,eng,4.18,380903,Philosophical fiction; Psychological Fiction
+178,178,61148512,Sylvia Plath,1963,The Bell Jar,The Bell Jar,en-US,3.98,401605,Romance
+179,179,7205236,Frank McCourt,1996,Angela's Ashes: A Memoir,"Angela's Ashes (Frank McCourt, #1)",eng,4.07,392103,emoir; Biography
+180,180,553208845,"Hermann Hesse, Hilda Rosner",1922,Siddhartha,Siddhartha,eng,3.99,372099,Fiction
+181,181,679745580,Truman Capote,1965,In Cold Blood,In Cold Blood,eng,4.05,381652,True crime; Crime Fiction; Non-fiction novel
+182,182,316042676,"Kami Garcia, Margaret Stohl",2009,Beautiful Creatures,"Beautiful Creatures (Caster Chronicles, #1)",eng,3.76,436093,Young adult fiction; Fantasy Fiction; Romance novel
+183,183,1416975861,Cassandra Clare,2010,Clockwork Angel,"Clockwork Angel (The Infernal Devices, #1)",eng,4.33,490890,Fiction; Steampunk; Science Fiction; Fantasy Fiction
+184,184,141301066,"Roald Dahl, Quentin Blake",1988,Matilda,Matilda,eng,4.29,440743,Children's literature; Fantasy
+185,185,385534639,Erin Morgenstern,2011,The Night Circus,The Night Circus,eng,4.03,429543,Fantasy
+186,186,743227441,Philippa Gregory,2001,The Other Boleyn Girl,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",eng,4.04,381080,Novel
+187,187,689865384,Scott Westerfeld,2005,Uglies,"Uglies (Uglies, #1)",eng,3.86,449073,Young adult fiction; Fiction; Science Fiction; Speculative fiction; Children's literature; Fantasy Fiction; Dystopian Fiction
+188,188,,George R.R. Martin,2011,A Dance with Dragons,"A Dance with Dragons (A Song of Ice and Fire, #5)",eng,4.31,365954,Fantasy Fiction
+189,189,618640150,J.R.R. Tolkien,1955,The Lord of the Rings,"The Lord of the Rings (The Lord of the Rings, #1-3)",eng,4.47,389054,Fantasy;Adventure
+190,190,307592731,Cheryl Strayed,2012,Wild: From Lost to Found on the Pacific Crest Trail ,Wild: From Lost to Found on the Pacific Crest Trail,eng,3.96,379872,Biography; Autobiography; Travel literature
+191,191,930289234,"Alan Moore, Dave Gibbons, John Higgins",1987,Watchmen,Watchmen,en-US,4.35,398018,Comics; Fiction; Speculative fiction; Graphic novel; Fantasy Fiction; Superhero fiction
+192,192,075640407X,Patrick Rothfuss,2007,The Name of the Wind,"The Name of the Wind (The Kingkiller Chronicle, #1)",eng,4.55,400101,Heroic fantasy
+193,193,316017922,Malcolm Gladwell,2008,Outliers: The Story of Success,Outliers: The Story of Success,en-US,4.11,353011,Non-fiction
+194,194,142437247,"Herman Melville, Andrew Delbanco, Tom Quirk",1851,"Moby Dick; or, The Whale","Moby-Dick or, The Whale",eng,3.46,358050,Novel; Adventure fiction; Epic; Nautical fiction; Encyclopedic novel
+195,195,385340990,"Mary Ann Shaffer, Annie Barrows",2008,The Guernsey Literary and Potato Peel Pie Society,The Guernsey Literary and Potato Peel Pie Society,eng,4.12,393626,Historical Fiction
+196,196,393327345,Chuck Palahniuk,1996,Fight Club,Fight Club,eng,4.2,365349,Satire
+197,197,441008534,Charlaine Harris,2001,Dead Until Dark,"Dead Until Dark (Sookie Stackhouse, #1)",en-US,3.96,420764,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+198,198,671727796,Alice Walker,1982,The Color Purple,The Color Purple,eng,4.17,376766,Fiction; Epistolary novel; Historical Fiction; Domestic Fiction
+199,199,739461192,John Grogan,2005,Marley & Me: Life and Love with the World's Worst Dog,Marley and Me: Life and Love With the World's Worst Dog,eng,4.12,367304,Autobiographical novel
+200,200,312330871,Agatha Christie,1939,Ten Little Niggers,And Then There Were None,eng,4.23,408983,Mystery; Crime; Psychological thriller
+201,201,385504225,Dan Brown,2009,The Lost Symbol,"The Lost Symbol (Robert Langdon, #3)",eng,3.66,369428,Crime Fiction; Mystery; Thriller
+202,202,1416989412,Becca Fitzpatrick,2009,"Hush, Hush","Hush, Hush (Hush, Hush, #1)",en-US,4,448166,Young adult fiction; Fantasy Fiction; Romance nove
+203,203,,Jamie McGuire,2011,Beautiful Disaster,"Beautiful Disaster (Beautiful, #1)",eng,4.15,418309,Romance novel; Fiction
+204,204,1561797464,Charles Dickens,1843,A Christmas Carol,A Christmas Carol,,4.02,394540,Fairy tale; Novella; Fiction; Speculative fiction; Ghost story; Morality play
+205,205,345476875,Anne Rice,1976,Interview with the Vampire,"Interview with the Vampire (The Vampire Chronicles, #1)",eng,3.97,372566,Gothic fiction; Horror fiction; Vampire literature
+206,206,62059939,Kiera Cass,2012,The Selection,"The Selection (The Selection, #1)",en-US,4.15,505340,Dystopia; Young adult fiction; Romance Film
+207,207,312362080,Janet Evanovich,1994,One for the Money,"One for the Money (Stephanie Plum, #1)",en-US,4.03,391007,Crime Fiction
+208,208,1400052173,Rebecca Skloot,2010,The Immortal Life of Henrietta Lacks,The Immortal Life of Henrietta Lacks,eng,4.04,377249,Biography
+209,209,99446782,Thomas Harris,1988,The Silence of the Lambs,"The Silence of the Lambs  (Hannibal Lecter, #2)",eng,4.14,351107,Horror fiction; Thriller; Psychological horror
+210,210,159514174X,Richelle Mead,2007,"Vampire Academy (Vampire Academy, #1)","Vampire Academy (Vampire Academy, #1)",en-US,4.14,248283,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance
+211,211,316010669,Malcolm Gladwell,2005,Blink: The Power of Thinking Without Thinking,Blink: The Power of Thinking Without Thinking,en-US,3.89,348196,Non-fiction; Self-help book
+212,212,038572179X,Ian McEwan,2001,Atonement,Atonement,eng,3.88,347006,Fiction; Mystery; Suspense; Bildungsroman; Psychological Fiction; Social novel; Domestic Fiction
+213,213,553213695,"Franz Kafka, Stanley Corngold",1915,Die Verwandlung,The Metamorphosis,eng,3.78,364933,Fantasy Fiction; Greek mythology; Young adult fiction
+214,214,141382899,Rick Riordan,2007,The Titan's Curse,"The Titan's Curse (Percy Jackson and the Olympians, #3)",eng,4.33,446668,Fantasy Fiction; Greek mythology; Young adult fiction
+215,215,030788743X,Ernest Cline,2011,,Ready Player One,eng,4.31,349423,"LitRPG; Science Fiction; Utopian , dystopian fiction"
+216,216,1554681723,Garth Stein,2006,The Art of Racing in the Rain,The Art of Racing in the Rain,eng,4.19,327409,Fiction
+217,217,739303406,"Erik Larson, Tony Goldwyn",2003,"The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America","The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",eng,3.98,309385,"The Devil in the White City: Murder; Magic; , Madness at the Fair that Changed America"
+218,218,425263908,Sylvia Day,2012,Bared to You,"Bared to You (Crossfire, #1)",eng,4.19,222678,Erotic literature; Romance novel
+219,219,66238501,"C.S. Lewis, Pauline Baynes",1956,The Chronicles of Narnia,"The Chronicles of Narnia (Chronicles of Narnia, #1-7)",eng,4.24,376385,Christian literature
+220,220,316043133,Mark Cotta Vaz,,Twilight: The Complete Illustrated Movie Companion,Twilight: The Complete Illustrated Movie Companion,en-US,4.23,291411,Fiction
+221,221,1558743669,Dave Pelzer,1995,"A Child Called ""It"": One Child's Courage to Survive","A Child Called ""It"" (Dave Pelzer #1)",eng,4.08,311543,Biography; Autobiography; Children's literature
+222,222,752864327,Robert Ludlum,1980,The Bourne Identity,"The Bourne Identity (Jason Bourne, #1)",eng,3.98,327122,Thriller; Spy fiction
+223,223,786817879,Eoin Colfer,2001,Artemis Fowl,"Artemis Fowl (Artemis Fowl, #1)",eng,3.82,386923,Fantasy; Young adult fiction
+224,224,385738935,Lauren Kate,2009,Fallen,"Fallen (Fallen, #1)",en-US,3.74,395296,Young adult fiction; Fantasy Fiction; Romance novel; Paranormal fiction
+225,225,142000655,John Steinbeck,1952,East of Eden  ,East of Eden,eng,4.35,320919,Novel; Fiction; Romance novel
+226,226,307341569,Gillian Flynn,2009,Dark Places,Dark Places,eng,3.92,333452,Mystery
+227,227,385339089,John Grisham,1993,The Client,The Client,eng,3.97,320083,Fiction; Legal Story
+228,228,312291639,"Emma McLaughlin, Nicola Kraus",2002,The Nanny Diaries,"The Nanny Diaries (Nanny, #1)",eng,3.4,323762,Humour; Novel; Fiction; Chick lit; Humorous Fiction
+229,229,451527747,"Lewis Carroll, John Tenniel, Martin Gardner",1865,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland & Through the Looking-Glass,eng,4.06,340920,Children's literature; Fiction
+230,230,192802631,"Jane Austen, James Kinsley, Deidre Shauna Lynch",1817,Persuasion,Persuasion,eng,4.13,365425,Novel
+231,231,312370830,Tatiana de Rosnay,2007,Elle s'appelait Sarah,Sarah's Key,eng,4.14,312444,The Holocaust
+232,232,452284694,Stephen King,1982,The Gunslinger,"The Gunslinger (The Dark Tower, #1)",en-US,3.99,332494,Fantasy Fiction; Western fiction
+233,233,140003468X,"Gabriel García Márquez, Edith Grossman",1985,El amor en los tiempos del cólera,Love in the Time of Cholera,eng,3.89,283806,Novel; Romance novel; Fiction; Magical Realism
+234,234,014131088X,Laurie Halse Anderson,1999,Speak,Speak,eng,4,360156,Fiction
+235,235,399159347,Liane Moriarty,2013,The Husband's Secret ,The Husband's Secret,eng,3.92,232106,Thriller
+236,236,385494785,Jon Krakauer,1997,Into Thin Air: A Personal Account of the Mt. Everest Disaster,Into Thin Air: A Personal Account of the Mount Everest Disaster,en-US,4.11,291258,Non-fiction
+237,237,1416524304,Stephen King,1974,Carrie,Carrie,,3.93,356814,Horror fiction
+238,238,031242227X,Augusten Burroughs,2002,Running with Scissors,Running with Scissors,en-US,3.7,293878,Memoir
+239,239,307346609,Max Brooks,2006,World War Z: An Oral History of the Zombie War,World War Z: An Oral History of the Zombie War,en-US,4.01,312969,Horror fiction; Post-Apocalyptic fiction
+240,240,385537859,Dan Brown,2013,Inferno,"Inferno (Robert Langdon, #4)",eng,3.8,287533,Mystery; Conspiracy fiction; Thriller
+241,241,440227534,Lois Lowry,1989,Number the Stars,Number the Stars,eng,4.11,333638,Historical Fiction
+242,242,446692638,James Patterson,1993,Along Came a Spider,"Along Came a Spider (Alex Cross, #1)",eng,4.08,311499,Crime Fiction; Mystery; Thriller
+243,243,450417395,Stephen King,1987,Misery,Misery,en-GB,4.11,334647,Psychological horror
+244,244,307341542,Gillian Flynn,2006,Sharp Objects,Sharp Objects,en-US,3.92,207889,Fiction; Thriller; Mystery; Suspense; Domestic Fiction
+245,245,439366771,Katherine Paterson,1977,Bridge to Terabithia,Bridge to Terabithia,eng,3.98,337644,Children's literature
+246,246,312360266,"P.C. Cast, Kristin Cast",2007,Marked,"Marked (House of Night, #1)",en-US,3.79,360044,Young adult fiction; Paranormal romance
+247,247,743269519,Stephen R. Covey,1989,The 7 Habits of Highly Effective People,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,en-US,4.05,314700,Self-help book; Non-fiction
+248,248,743477545,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey",1595,A Midsummer Night's Dream,A Midsummer Night's Dream,eng,3.94,334241,Fantasy Fiction; Comedy
+249,249,618711651,Jonathan Safran Foer,2005,Extremely Loud and Incredibly Close,Extremely Loud and Incredibly Close,en-US,3.97,294726,Novel
+250,250,375869026,R.J. Palacio,2012,Wonder,Wonder,eng,4.43,228538,Children's literature
+251,251,039480001X,Dr. Seuss,1957,The Cat in the Hat,The Cat in the Hat,eng,4.15,314016,Children's literature
+252,252,312641893,Marissa Meyer,2012,Cinder,"Cinder (The Lunar Chronicles, #1)",eng,4.15,427663,"Young adult fiction; Romance novel; Science Fiction; Utopian , dystopian fiction"
+253,253,316206849,"Robert Galbraith, J.K. Rowling",2013,The Cuckoo's Calling,"The Cuckoo's Calling (Cormoran Strike, #1)",en-US,3.83,297712,Crime Fiction
+254,254,545123267,Maggie Stiefvater,2009,Shiver,"Shiver (The Wolves of Mercy Falls, #1)",eng,3.78,356625,Fantasy Fiction; Young adult fiction
+255,255,452011876,"Ayn Rand, Leonard Peikoff",1957,Atlas Shrugged,Atlas Shrugged,eng,3.68,283295,Philosophical fiction; Science Fiction; Mystery; Romance novel
+256,256,143038257,"Greg Mortenson, David Oliver Relin",2006,Three Cups of Tea ,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,en-US,3.64,283516,Memoir
+257,257,517223627,"Jane Carruth, Lewis Carroll, Rene Cloke",1865,,Alice in Wonderland,eng,4.03,343252,Fiction
+258,258,143034901,"Carlos Ruiz Zafón, Lucia Graves",2001,La sombra del viento,"The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)",eng,4.24,263685,Mystery
+259,259,385738757,James Dashner,2010,The Scorch Trials,"The Scorch Trials (Maze Runner, #2)",eng,3.93,305643,Young adult fiction; Science Fiction; Post-Apocalyptic fiction
+260,260,,Dale Carnegie,1936,How to Win Friends and Influence People,How to Win Friends and Influence People,eng,4.13,282623,Self-help book; Non-fiction
+261,261,767900383,Frances Mayes,1996,Under the Tuscan Sun,Under the Tuscan Sun,eng,3.72,279264,Biography; Fiction; Travel literature
+262,262,399167064,Liane Moriarty,2014,Big Little Lies,Big Little Lies,eng,4.2,306186,Fiction; Mystery; Psychological Fiction; Domestic Fiction
+263,263,590920685,Gail Carson Levine,1997,Ella Enchanted,Ella Enchanted,eng,3.97,339117,Fantasy
+264,264,743297334,Ernest Hemingway,1926,The Sun Also Rises,The Sun Also Rises,en-US,3.83,284988,Novel; Fiction; Children's literature; Romance
+265,265,61120073,Betty  Smith,1943,A Tree Grows In Brooklyn ,A Tree Grows in Brooklyn,eng,4.24,291909,Novel; Fiction; Bildungsroman; Domestic Fiction
+266,266,446677388,James Patterson,1995,Kiss the Girls,"Kiss the Girls (Alex Cross, #2)",eng,3.93,274639,Crime Fiction; Mystery; Thriller
+267,267,312577222,Kristin Hannah,2015,The Nightingale,The Nightingale,eng,4.54,253606,Historical Fiction
+268,268,1400078776,Kazuo Ishiguro,2005,Never Let Me Go,Never Let Me Go,eng,3.8,294123,Speculative fiction; Dystopia; Science Fiction
+269,269,786890754,Cecelia Ahern,2003,"PS, I Love You",P.S. I Love You,en-US,4.01,262921,Romance Film
+270,270,1844080382,"Daphne du Maurier, Sally Beauman",1938,Rebecca,Rebecca,en-US,4.2,177384,Crime Fiction; Gothic fiction; Mystery; Romance novel
+271,271,156030306,Daniel Keyes,1966,Flowers for Algernon,Flowers for Algernon,en-US,4.07,313044,Science Fiction
+272,272,552995878,"Laura Esquivel, Thomas  Christensen, Carol Christensen",1989,Como agua para chocolate,Like Water for Chocolate,en-US,3.94,263199,Romance; Magical Realism; Tragedy
+273,273,812968069,Lisa See,2005,Snow Flower and the Secret Fan,Snow Flower and the Secret Fan,eng,4.05,280475,Novel
+274,274,451205766,"Mario Puzo, Robert Thompson, Peter Bart",1969,The Godfather,The Godfather,eng,4.36,256480,Crime Fiction
+275,275,525476881,John Green,2006,An Abundance of Katherines,An Abundance of Katherines,eng,3.63,312754,Young adult fiction
+276,276,553803719,Isaac Asimov,1951,Foundation,Foundation (Foundation #1),eng,4.13,279688,Science Fiction
+277,277,62255657,Neil Gaiman,2013,The Ocean at the End of the Lane,The Ocean at the End of the Lane,eng,3.99,293844,Dark fantasy; Surrealism; Horror fiction
+278,278,60513063,Shel Silverstein,1981,A Light in the Attic,A Light in the Attic,eng,4.34,297861,Children's poetry
+279,279,751565350,"John Tiffany, Jack Thorne, J.K. Rowling",2016,"Harry Potter and the Cursed Child, Parts One and Two","Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)",eng,3.75,270603,Fantasy;Adventure fiction
+280,280,61726834,Lauren Oliver,2011,Delirium,"Delirium (Delirium, #1)",eng,3.99,256975,"Young adult fiction; Science Fiction; Romance novel; Utopian , dystopian fiction"
+281,281,385339704,John Grisham,1992,The Pelican Brief,The Pelican Brief,eng,3.95,288376,Novel; Fiction; Mystery; Children's literature; Legal thriller; Legal Story
+282,282,61139378,Neil Gaiman,2002,Coraline,Coraline,eng,4.03,316379,Dark fantasy
+283,283,60853980,"Terry Pratchett, Neil Gaiman",1990,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch","Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",en-US,4.25,298304,Horror fiction; Fantasy; Humorous Fiction
+284,284,140042598,Jack Kerouac,1955,On the Road,On the Road,eng,3.64,246602,Beat Generation
+285,285,1476729085,Graeme Simsion,2013,The Rosie Project,"The Rosie Project (Don Tillman, #1)",eng,4.01,251703,Romance novel
+286,286,446579939,Nicholas Sparks,2008,The Lucky One,The Lucky One,en-US,4.1,267166,Romance;Drama;War
+287,287,451191153,"Ayn Rand, Leonard Peikoff",1943,The Fountainhead,The Fountainhead,eng,3.85,244545,Philosophical fiction
+288,288,425172902,Tom Clancy,1984,The Hunt for Red October,"The Hunt for Red October (Jack Ryan Universe, #4)",,4.01,270318,Techno-thriller; Spy fiction
+289,289,038039586X,Richard Adams,1972,Watership Down,"Watership Down (Watership Down, #1)",eng,4.05,292426,Fantasy
+290,290,307886263,Mindy Kaling,2011,Is Everyone Hanging Out Without Me? (And Other Concerns),Is Everyone Hanging Out Without Me? (And Other Concerns),eng,3.84,290674,Humour; Biography
+291,291,375414495,Abraham Verghese,2009,Cutting for Stone,Cutting for Stone,eng,4.28,258319,Fiction; Domestic Fiction
+292,292,006112527X,"C.S. Lewis, Pauline Baynes",1951,The Voyage of the Dawn Treader,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",eng,4.08,306492,Christian literature
+293,293,753453800,Robert Louis Stevenson,1882,Treasure Island,Treasure Island,eng,3.82,268012,Adventure fiction; Young adult fiction
+294,294,1423140591,Rick Riordan,2011,The Son of Neptune ,"The Son of Neptune (The Heroes of Olympus, #2)",eng,4.44,299980,Fantasy; Young adult fiction
+295,295,1451627289,Stephen King,2011,11/22/63,11/22/63,eng,4.29,258464,Science Fiction; Alternate history
+296,296,241003008,Eric Carle,1969,The Very Hungry Caterpillar,The Very Hungry Caterpillar Board Book,eng,4.29,296952,Children's literature
+297,297,140285601,Kurt Vonnegut Jr.,1963,Cat's Cradle,Cat's Cradle,eng,4.18,238940,Satire; Humour; Fiction; Science Fiction; Speculative fiction
+298,298,451528557,"H.G. Wells, Greg Bear, Carlo Pagetti",1895,The Time Machine,The Time Machine,eng,3.87,276076,Science Fiction
+299,299,849946158,"Todd Burpo, Lynn Vincent",2010,,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,eng,4.01,228371,Christian literature
+300,300,385751060,John Boyne,2006,The Boy in the Striped Pyjamas,The Boy in the Striped Pajamas,eng,4.1,285692,Fiction; Fable; Historical Fiction; Children's literature; Tragicomedy; Postmodern literature
+301,301,1892295490,Joseph Conrad,1899,Heart of Darkness,Heart of Darkness,eng,3.42,255576,Novella
+302,302,044654759X,Nicholas Sparks,2010,Safe Haven,Safe Haven,eng,4.19,255531,Literary realism; Romance novel
+303,303,1582701709,Rhonda Byrne,2006,The Secret,"The Secret (The Secret, #1)",eng,3.62,241537,Self-help; Spirituality
+304,304,60987561,Wally Lamb,1998,I Know This Much Is True ,I Know This Much Is True,eng,4.17,246917,Novel
+305,305,1416524347,Stephen King,1983,Pet Sematary,Pet Sematary,eng,3.91,256383,Horror fiction
+306,306,671021001,Wally Lamb,1992,She's Come Undone,She's Come Undone,en-US,3.84,259576,Drama
+307,307,756404738,Patrick Rothfuss,2011,The Wise Man's Fear,"The Wise Man's Fear (The Kingkiller Chronicle, #2)",eng,4.57,245686,Heroic fantasy
+308,308,440241901,Sophie Kinsella,2003,Can You Keep a Secret?,Can You Keep a Secret?,en-US,3.83,278747,Comedy; Chick lit
+309,309,1442403543,Cassandra Clare,2011,City of Fallen Angels,"City of Fallen Angels (The Mortal Instruments, #4)",en-US,4.16,341826,Fantasy; Adventure
+310,310,743418174,Jennifer Weiner,2001,Good in Bed,"Good in Bed (Cannie Shapiro, #1)",en-US,3.7,248804,Fiction
+311,311,380018179,Colleen McCullough,1977,The Thorn Birds,The Thorn Birds,eng,4.22,255651,Family saga
+312,312,60530928,"Neil Gaiman, Dave McKean",2008,The Graveyard Book,The Graveyard Book,en-US,4.12,302303,Horror fiction; Children's literature; Fantasy
+313,313,1451681739,M.L. Stedman,2012,The Light Between Oceans,The Light Between Oceans,eng,4,243526,War story
+314,314,439709105,"Cornelia Funke, Anthea Bell",2003,Tintenherz,"Inkheart (Inkworld, #1)",en-US,3.86,285011,Fantasy Fiction; Bildungsroman; Mystery
+315,315,91883768,"Spencer Johnson, Kenneth H. Blanchard",1998,Who Moved My Cheese?,Who Moved My Cheese?,eng,3.74,237272,Fiction; Self-help book
+316,316,307279464,Bill Bryson,1997,A Walk in the Woods,A Walk in the Woods,eng,4.05,250192,Non-fiction; Travel literature
+317,317,553279378,Maya Angelou,1969,I Know Why the Caged Bird Sings,I Know Why the Caged Bird Sings,en-US,4.19,270859,Autobiography; Biography
+318,318,61950726,Christina Baker Kline,2013,Orphan Train,Orphan Train,eng,4.14,226091,Historical Fiction; Literary fiction
+319,319,1442416866,Cassandra Clare,2012,City of Lost Souls,"City of Lost Souls (The Mortal Instruments, #5)",eng,4.3,300553, Fantasy; Adventure
+320,320,316204277,Maria Semple,2012,"Where'd You Go, Bernadette","Where'd You Go, Bernadette",eng,3.9,215453,Fiction; Humorous Fiction; Domestic Fiction
+321,321,375806814,Wilson Rawls,1961,Where the Red Fern Grows,Where the Red Fern Grows,,4.04,268548,Children's literature
+322,322,60557818,Neil Gaiman,1996,Neverwhere,Neverwhere,eng,4.18,268318,Children's literature
+323,323,571224385,"Milan Kundera, Michael Henry Heim",1984,Nesnesitelná lehkost bytí,The Unbearable Lightness of Being,eng,4.08,205279,Philosophical fiction
+324,324,,Rainbow Rowell,2013,,Fangirl,eng,4.12,340379,Novel; Fiction; Young adult fiction
+325,325,552135399,John Irving,1989,A Prayer for Owen Meany,A Prayer for Owen Meany,eng,4.22,226964,Bildungsroman
+326,326,316182540,Janet Fitch,1999,White Oleander,White Oleander,eng,3.93,245674,Novel; Fiction; Bildungsroman
+327,327,039925675X,Marie Lu,2011,Legend,"Legend (Legend, #1)",eng,4.19,299998,"Utopian , dystopian fiction; Young adult fiction; Science Fiction"
+328,328,743496728,Jodi Picoult,2007,Nineteen Minutes,Nineteen Minutes,eng,4.1,235978,Thriller
+329,329,1401323251,"Randy Pausch, Jeffrey Zaslow",2008,The Last Lecture,The Last Lecture,eng,4.25,241869,Non-fiction
+330,330,812511816,Robert Jordan,1990,The Eye of the World,"The Eye of the World (Wheel of Time, #1)",eng,4.18,260184,High Fantasy
+331,331,61150142,Jodi Picoult,1998,The Pact,The Pact,en-US,4,221225,Novel
+332,332,60764902,C.S. Lewis,1953,The magician's nephew,"The Magician's Nephew (Chronicles of Narnia, #6)",eng,4.01,268355,Christian literature
+333,333,595440096,Lisa Genova,2007,Still Alice,Still Alice,eng,4.3,223432,Fiction
+334,334,425263916,Sylvia Day,2012,Reflected in You,"Reflected in You (Crossfire, #2)",eng,4.33,252564,Erotic literature; Fiction; Romance novel; Contemporary romance
+335,335,375814248,"Roald Dahl, Quentin Blake",1961,James and the Giant Peach,James and the Giant Peach,eng,3.99,270402,Children's literature; Fantasy
+336,336,446696617,James Patterson,2001,1st To Die,"1st to Die (Women's Murder Club, #1)",en-US,4.05,233984,Crime Fiction
+337,337,345453743,Douglas Adams,1996,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story,The Ultimate Hitchhiker's Guide to the Galaxy,eng,4.37,222842,Humour; Fiction; Science Fiction; Speculative fiction; Humorous Fiction
+338,338,340896965,David Nicholls,2009,One Day,One Day,eng,3.77,222926,Fiction; Romance novel
+339,339,60775858,"Margaret Wise Brown, Clement Hurd",1947,,Goodnight Moon,en-US,4.27,244842,Children's literature
+340,340,61969559,Pittacus Lore,2010,I Am Number Four,"I Am Number Four (Lorien Legacies, #1)",en-US,3.94,253437,Young adult fiction; Science Fiction
+341,341,140275363,"Homer, Robert Fagles, Frédéric Mugler, Bernard Knox",-750,Ἰλιάς,The Iliad,eng,3.83,241088,Epic poetry; Poetry; Epic
+342,342,316228532,J.K. Rowling,2012,The Casual Vacancy,The Casual Vacancy,eng,3.28,231835,Fiction; Tragicomedy
+343,343,385339690,John Grisham,1996,The Runaway Jury,The Runaway Jury,eng,3.96,222712,Novel; Fiction; Mystery; Suspense; Legal thriller; Legal Story
+344,344,316777730,David Sedaris,1997,Naked,Naked,en-US,4.08,201337,Essay
+345,345,375840400,Christopher Paolini,2005,Eldest,"Eldest (The Inheritance Cycle, #2)",en-US,3.96,250000,Young Adult Fiction;Fantasy;Bildungsroman
+346,346,140621679,"L. Frank Baum, W.W. Denslow",1900,The Wonderful Wizard of Oz,"The Wonderful Wizard of Oz (Oz, #1)",eng,3.98,247521,Fantasy;Childern's novel
+347,347,000720230X,C.S. Lewis,1951,Prince Caspian: The Return to Narnia,"Prince Caspian (Chronicles of Narnia, #2)",eng,3.96,250221,Christian literature
+348,348,,E. Lockhart,2014,We Were Liars,We Were Liars,eng,3.85,273442,Young adult fiction
+349,349,450031063,Stephen King,1975,Salem's Lot,'Salem's Lot,en-GB,3.99,228680,Horror fiction
+350,350,679785892,"Hunter S. Thompson, Ralph Steadman",1971,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Fear and Loathing in Las Vegas,eng,4.08,232489,Gonzo journalism
+351,351,1416975888,Cassandra Clare,2011,Clockwork Prince,"Clockwork Prince (The Infernal Devices, #2)",eng,4.46,307994,Fantasy;Adventure
+352,352,62268341,Amy Poehler,2014,Yes Please,Yes Please,eng,3.81,251082,Autobiography
+353,353,743477553,William Shakespeare,1603,"The Tragedy of Othello, The Moor of Venice",Othello,eng,3.88,238875,Tragedy
+354,354,1400033411,Toni Morrison,1987,Beloved,Beloved,eng,3.77,233825,Magical Realism
+355,355,015206396X,Kristin Cashore,2008,Graceling,"Graceling (Graceling Realm, #1)",en-CA,4.1,281185,Fantasy; Romance novel
+356,356,439206472,"Lemony Snicket, Brett Helquist",1999,The Bad Beginning,"The Bad Beginning (A Series of Unfortunate Events, #1)",eng,3.89,275670,Gothic fiction; Absurdist fiction; Steampunk; Mystery
+357,357,449213943,"Erich Maria Remarque, A.W. Wheen",1929,Im Westen nichts Neues,All Quiet on the Western Front,en-US,3.92,249113,War story
+358,358,679805273,Dr. Seuss,1990,"Oh, the Places You'll Go!","Oh, The Places You'll Go!",en-US,4.34,257260,Children's literature
+359,359,159463176X,Khaled Hosseini,2012,And The Mountains Echoed,And the Mountains Echoed,eng,4.03,199326,Historical Fiction
+360,360,345404475,"Philip K. Dick, Roger Zelazny",1968,Do Androids Dream of Electric Sheep?,Do Androids Dream of Electric Sheep?,eng,4.08,223828,Science Fiction; Philosophical fiction
+361,361,141439742,"Charles Dickens, George Cruikshank, Philip Horne",1838,Oliver Twist,Oliver Twist,eng,3.85,230181,Novel
+362,362,60652896,C.S. Lewis,1942,A Grief Observed,The Screwtape Letters,eng,4.21,116277,Epistolary novel; Christian apologetics; Satire
+363,363,525423273,Stephanie Perkins,2010,Anna and the French Kiss,"Anna and the French Kiss (Anna and the French Kiss, #1)",en-US,4.08,259479,Young adult fiction
+364,364,7173040,Dr. Seuss,1957,How the Grinch Stole Christmas!,How the Grinch Stole Christmas!,eng,4.36,250602,Children's literature
+365,365,1401207928,"Alan Moore, David   Lloyd",1990,V for Vendetta,V for Vendetta,eng,4.25,210682,Comics; Humour; Fiction; Science Fiction; Speculative fiction; Graphic novel; Dystopian Fiction
+366,366,743223136,David McCullough,2001,John Adams,John Adams,eng,4.05,215780,Non-fiction
+367,367,553384287,Dean Koontz,2003,Odd Thomas,"Odd Thomas (Odd Thomas, #1)",eng,3.94,205986,Thriller; Mystery
+368,368,679879250,Philip Pullman,1997,The Subtle Knife,"The Subtle Knife (His Dark Materials, #2)",eng,4.1,242503,Fantasy Fiction
+369,369,439488400,Jerry Spinelli,2000,Stargirl,"Stargirl (Stargirl, #1)",eng,3.74,237560,Young adult fiction
+370,370,1423113381,Rick Riordan,2010,The Red Pyramid,"The Red Pyramid (Kane Chronicles, #1)",eng,4.06,232791,Fantasy Fiction; Egyptian mythology; Young adult fiction
+371,371,441788386,Robert A. Heinlein,1961,Stranger in a Strange Land,Stranger in a Strange Land,eng,3.91,220301,Science Fiction
+372,372,965904830,David Sedaris,2004,Dress Your Family in Corduroy and Denim,Dress Your Family in Corduroy and Denim,eng,4.08,191923,Essay
+373,373,141311371,"Roald Dahl, Quentin Blake",1982,The BFG,The BFG,eng,4.22,245855,Children's literature; Fantasy
+374,374,076790818X,Bill Bryson,2003,A Short History of Nearly Everything,A Short History of Nearly Everything,en-US,4.19,191535,Non-fiction
+375,375,439227143,Jack London,1903,The Call of the Wild,The Call of the Wild,eng,3.83,223932,Adventure fiction
+376,376,385738773,James Dashner,2011,The Death Cure,"The Death Cure (Maze Runner, #3)",eng,3.77,223674,"Young adult fiction; Utopian , dystopian fiction; Science Fiction"
+377,377,61142026,Neil Gaiman,1999,Stardust,Stardust,eng,4.07,237602,Fantasy
+378,378,618485228,Jhumpa Lahiri,2003,The Namesake,The Namesake,en-US,3.96,184211,Fiction
+379,379,670022411,Deborah Harkness,2011,A Discovery of Witches,"A Discovery of Witches (All Souls Trilogy, #1)",eng,3.99,226622,Contemporary fantasy;romance;vampire;witchcraft
+380,380,375704027,"Haruki Murakami, Jay Rubin",1987,ノルウェイの森 [Noruwei no Mori],Norwegian Wood,eng,4.02,183988,Bildungsroman
+381,381,446672211,Billie Letts,1995,Where the Heart Is,Where the Heart Is,en-US,4,208333,Novel; Fiction; Romance novel; Bildungsroman
+382,382,525421580,"John Green, David Levithan",2010,"Will Grayson, Will Grayson","Will Grayson, Will Grayson",eng,3.84,236431,Novel; Fiction; Young adult fiction; Social novel
+383,383,307276902,James Frey,2003,A Million Little Pieces,A Million Little Pieces,en-CA,3.62,184241,Misery lit
+384,384,1595141758,Richelle Mead,2008,Frostbite,"Frostbite (Vampire Academy, #2)",eng,4.3,256745,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance
+385,385,307352145,Susan Cain,2012,Quiet: The Power of Introverts in a World that Can't Stop Talking,Quiet: The Power of Introverts in a World That Can't Stop Talking,eng,4.04,202135,Non-fiction; Self-help book
+386,386,440439884,Scott O'Dell,1960,Island of the Blue Dolphins,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",en-CA,3.8,236015,Young adult fiction
+387,387,142437336,"Arthur Miller, Christopher Bigsby",1953,The Crucible,The Crucible,eng,3.55,242980,Tragedy
+388,388,689840926,Gary Paulsen,1986,Hatchet,"Hatchet (Brian's Saga, #1)",en-US,3.68,222553,Young adult fiction
+389,389,076531178X,Brandon Sanderson,2006,Mistborn : The Final Empire,"The Final Empire (Mistborn, #1)",eng,4.43,208944,Fantasy Fiction
+390,390,451528956,"Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon",1886,The Strange Case of Dr Jekyll and Mr Hyde,The Strange Case of Dr. Jekyll and Mr. Hyde,eng,3.79,223535,Psychological thriller; Drama; Horror fiction; Mystery; Gothic fiction; Science Fiction
+391,391,679889108,Dr. Seuss,1971,The Lorax,The Lorax,eng,4.35,226564,Children's literature
+392,392,810993139,Jeff Kinney,2004,Greg Heffley's Journal,"Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",en-US,3.96,254852,Comedy;Young adult fiction
+393,393,1599906953,Sarah J. Maas,2012,Throne of Glass,"Throne of Glass (Throne of Glass, #1)",eng,4.24,274987,Fantasy
+394,394,1595141979,Richelle Mead,2008,Shadow Kiss,"Shadow Kiss (Vampire Academy, #3)",en-US,4.37,266742,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance
+395,395,684803356,Ernest Hemingway,1940,For Whom the Bell Tolls,For Whom the Bell Tolls,eng,3.95,195063,War story
+396,396,345505336,Jamie Ford,2009,Hotel on the Corner of Bitter and Sweet,Hotel on the Corner of Bitter and Sweet,eng,3.98,197294,Historical Fiction
+397,397,140120831,"Patrick Süskind, John E. Woods",1985,Das Parfum. Die Geschichte eines Mörders,Perfume: The Story of a Murderer,eng,4,178135,Horror fiction; Mystery; Magical Realism; Absurdism
+398,398,60838582,Eric Schlosser,2001,Fast Food Nation : The Dark Side of the All-American Meal ,Fast Food Nation: The Dark Side of the All-American Meal,eng,3.73,179347,Non-fiction
+399,399,747599874,J.K. Rowling,2007,The Tales of Beedle the Bard,The Tales of Beedle the Bard,en-US,4.06,284833,Fiction; Anthology; Speculative fiction; Children's literature; Fantasy Fiction
+400,400,441569595,William Gibson,1984,Neuromancer,Neuromancer,eng,3.88,183878,Science Fiction
+401,401,99910101,Ernest Hemingway,1929,A Farewell to Arms,A Farewell to Arms,en-US,3.79,186613,Literary realism
+402,402,553212281,Edgar Allan Poe,1843,The Tell-Tale Heart,The Tell-Tale Heart and Other Writings,en-GB,4.15,195689,Fiction; Horror fiction; Graphic novel
+403,403,1590302257,"Sun Tzu, Thomas Cleary",-500,孫子兵法 [Sūnzi bīngfǎ],The Art of War,eng,3.95,167332,Treatise; Fiction; Self-help book; Inspirational Fiction
+404,404,385344228,William Landay,2012,Defending Jacob,Defending Jacob,eng,3.97,182025,Fiction; Mystery; Suspense; Crime Fiction; Psychological Fiction; Legal Story
+405,405,385334206,Kurt Vonnegut Jr.,1973,Breakfast of Champions,Breakfast of Champions,eng,4.08,178154,Novel
+406,406,874774241,Betty Edwards,1979,Drawing on the Right Side of the Brain,The New Drawing on the Right Side of the Brain,en-US,3.84,218264,Novel
+407,407,60838728,Ann Patchett,2001,Bel Canto,Bel Canto,eng,3.92,192330,Thriller
+408,408,739467352,Jared Diamond,1997,"Guns, Germs, and Steel: The Fates of Human Societies","Guns, Germs, and Steel: The Fates of Human Societies",eng,4,171558,Novel
+409,409,375508414,Fannie Flagg,1987,Fried Green Tomatoes at the Whistle Stop Cafe,Fried Green Tomatoes at the Whistle Stop Cafe,,4.26,207508,Fiction
+410,410,385474547,Chinua Achebe,1958,Things Fall Apart,"Things Fall Apart (The African Trilogy, #1)",en-US,3.61,199346,Novel; Poetry; Fiction; Children's literature; Historical Fiction
+411,411,385338694,Sophie Kinsella,2005,The Undomestic Goddess,The Undomestic Goddess,eng,3.82,200509,Comedy; Chick lit
+412,412,1881273156,Gary Chapman,1990,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,en-US,4.23,165675,Christian literature
+413,413,,Alexandre Dumas,1844,Les Trois Mousquetaires,The Three Musketeers,,4.06,195274,Historical romance; Animation
+414,414,1416589643,Chris Cleave,2008,The Other Hand,Little Bee,en-US,3.7,116784,Literary fiction
+415,415,031253275X,Alyson Noel,2009,Evermore,"Evermore (The Immortals, #1)",en-US,3.59,230031,Fantasy Fiction
+416,416,590032496,"Roald Dahl, Quentin Blake",1983,The Witches,The Witches,en-US,4.17,221431,Fiction; Speculative fiction; Children's literature
+417,417,743298020,Diane Setterfield,2006,The Thirteenth Tale,The Thirteenth Tale,eng,3.95,213200,Gothic fiction; Suspense
+418,418,1595142509,Richelle Mead,2010,Spirit Bound,"Spirit Bound (Vampire Academy, #5)",eng,4.37,224247,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance
+419,419,1595141987,Richelle Mead,2009,Blood Promise,"Blood Promise (Vampire Academy, #4)",en-US,4.35,231853,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance
+420,420,446676071,Nicholas Sparks,1998,Message in a Bottle,Message in a Bottle,en-US,3.95,185116,Romance novel
+421,421,345521307,Paula McLain,2011,The Paris Wife,The Paris Wife,eng,3.79,191850,Fiction
+422,422,545044251,J.K. Rowling,1998,Complete Harry Potter Boxed Set,"Harry Potter Boxset (Harry Potter, #1-7)",eng,4.74,190050,Fiction
+423,423,62059963,Kiera Cass,2013,The Elite,"The Elite (The Selection, #2)",eng,4.02,234247,Young adult fiction
+424,424,156001314,"Umberto Eco, William Weaver, Seán Barrett",1980,Il nome della rosa,The Name of the Rose,en-US,4.11,200217,Historical Fiction; Mystery
+425,425,1416914633,"Beatrice Sparks, Anonymous",1971,Go Ask Alice,Go Ask Alice,eng,3.77,196677,Young adult fiction
+426,426,802130208,"John Kennedy Toole, Walker Percy",1980,A Confederacy of Dunces,A Confederacy of Dunces,eng,3.89,170776,Comedy; Tragicomedy
+427,427,158049580X,Oscar Wilde,1895,The Importance of Being Earnest,The Importance of Being Earnest,eng,4.17,210630,Farce
+428,428,1423140605,Rick Riordan,2012,The Mark of Athena,"The Mark of Athena (The Heroes of Olympus, #3)",eng,4.47,277491,Fantasy; Young adult fiction
+429,429,60855924,Terry Pratchett,1983,The Colour of Magic,"The Color of Magic (Discworld, #1; Rincewind #1)",eng,3.97,190590,Fantasy
+430,430,1400079276,"Haruki Murakami, Philip Gabriel",2002,海辺のカフカ [Umibe no Kafuka],Kafka on the Shore,en-US,4.13,167593,Magical Realism; Fantasy
+431,431,525945563,Thomas Harris,1981,Red Dragon,"Red Dragon (Hannibal Lecter, #1)",eng,4.01,194013,Crime Fiction; Horror fiction; Thriller; Psychological horror
+432,432,553803700,Isaac Asimov,1950,"I, Robot","I, Robot (Robot #0.1)",eng,4.17,198368,Science Fiction
+433,433,451216954,J.R. Ward,2005,Dark Lover,"Dark Lover (Black Dagger Brotherhood, #1)",eng,4.21,227021,Romance novel; Fiction; Speculative fiction; Fantasy Fiction
+434,434,1416989439,Becca Fitzpatrick,2010,Crescendo,"Crescendo (Hush, Hush, #2)",en-US,4.07,226237,Young adult fiction; Fantasy Fiction; Romance novel
+435,435,61726818,Lauren Oliver,2010,Before I Fall,Before I Fall,eng,3.92,220160,Young adult fiction
+436,436,679457313,Arundhati Roy,1997,The God of Small Things,The God of Small Things,eng,3.91,165378,Novel; Fiction; Psychological Fiction; Domestic Fiction
+437,437,670024783,Sue Monk Kidd,2014,The Invention of Wings,The Invention of Wings,en-US,4.23,168006,Fiction; Historical Fiction; Biographical Fiction
+438,438,141043768,Liane Moriarty,2009,What Alice Forgot,What Alice Forgot,eng,4.05,165704,Fiction; Domestic Fiction
+439,439,553380168,"Stephen Hawking, Cao Chi, Phạm Văn Thiều",1987,A Brief History of Time: From the Big Bang to Black Holes,A Brief History of Time,eng,4.12,165628,Popular science
+440,440,525951652,Ken Follett,2010,Fall of Giants,"Fall of Giants (The Century Trilogy, #1)",eng,4.26,168911,Historical Fiction
+441,441,1439148503,Stephen King,2009,Under the Dome,Under the Dome,eng,3.89,183292,Science Fiction; Political fiction
+442,442,553380958,Neal Stephenson,1992,Snow Crash,Snow Crash,eng,4.02,175883,Science Fiction; Cyberpunk; Cyberpunk derivatives
+443,443,670061050,Sarah Dessen,2006,Just Listen,Just Listen,en-US,4.06,202180,Fiction; Young adult fiction; Children's literature
+444,444,525467564,"A.A. Milne, Ernest H. Shepard",1926,Winnie-the-Pooh,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",eng,4.34,207550,Short story collection; Children's literature
+445,445,62060554,S.J. Watson,2011,Before I Go to Sleep,Before I Go to Sleep,en-CA,3.87,180896,Thriller; Suspense
+446,446,1420925539,Arthur Conan Doyle,1887,A Study in Scarlet,A Study in Scarlet,eng,4.15,201499,Detective
+447,447,375826726,Christopher Paolini,2008,Brisingr,"Brisingr (The Inheritance Cycle, #3)",eng,4.03,211645,Young adult fiction; High fantasy
+448,448,310276993,Rick Warren,2002,The Purpose Driven Life: What on Earth am I Here For?,The Purpose Driven Life: What on Earth Am I Here for?,en-US,3.9,170491,Non-fiction; Christian literature
+449,449,312360282,"P.C. Cast, Kristin Cast",2007,Betrayed: a House of Night Novel,"Betrayed (House of Night, #2)",en-US,3.93,205340,Young Adult
+450,450,451457811,Jim Butcher,2000,Storm Front,"Storm Front (The Dresden Files, #1)",en-US,4.02,203053,Urban fantasy; Mystery
+451,451,1593082649,"Jane Austen, Alfred MacAdam",1817,Northanger Abbey,Northanger Abbey,eng,3.8,205167,Gothic fiction; Romance novel; Satire
+452,452,399162410,Rick Yancey,2013,The 5th Wave,"The 5th Wave (The 5th Wave, #1)",eng,4.1,260048,Young adult fiction; Science Fiction
+453,453,802142842,Charles Frazier,1997,Cold Mountain,Cold Mountain,en-US,3.83,185979,Fiction; Romance novel; Historical Fiction
+454,454,60245867,"Laura Joffe Numeroff, Felicia Bond",1985,If You Give a Mouse a Cookie,If You Give a Mouse a Cookie,en-US,4.24,198083,Children's literature
+455,455,312323867,Emily Giffin,2005,Something Blue,"Something Blue (Darcy & Rachel, #2)",en-US,3.92,172417,Fiction; Romance novel; Psychological Fiction
+456,456,822210894,Tennessee Williams,1947,A Streetcar Named Desire,A Streetcar Named Desire,eng,3.97,194493,Southern Gothic
+457,457,751537284,Elizabeth Kostova,2005,The Historian,The Historian,eng,3.77,190473,Fiction; Horror fiction; Suspense; Speculative fiction
+458,458,385353308,Emily St. John Mandel,2014,Station Eleven,Station Eleven,eng,4.02,160466,Science Fiction; Post-Apocalyptic fiction
+459,459,1476738017,"Fredrik Backman, Henning Koch",2012,En man som heter Ove,A Man Called Ove,eng,4.35,183777,Novel
+460,460,1406321346,Cassandra Clare,2013,Clockwork Princess,"Clockwork Princess (The Infernal Devices, #3)",eng,4.59,162099,Fantasy Fiction; Adventure
+461,461,1416500189,Pearl S. Buck,1931,The Good Earth,"The Good Earth (House of Earth, #1)",eng,3.97,182220,Historical Fiction
+462,462,140135154,John Berger,1972,Ways of Seeing,Ways of Seeing,eng,3.75,155658,Fiction
+463,463,385335970,Diana Gabaldon,1992,Dragonfly in Amber,"Dragonfly in Amber (Outlander, #2)",eng,4.31,178110,Historical Novel
+464,464,,Anonymous,1611,,Holy Bible: King James Version,eng,4.43,159457,Religious text
+465,465,743495667,Jennifer Weiner,2002,In Her Shoes,In Her Shoes,,3.78,167400,Fiction
+466,466,345368584,"Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming",1989,The Hobbit,The Hobbit: Graphic Novel,eng,4.48,155338,High Fantasy
+467,467,1594489580,Junot Díaz,2007,The Brief Wondrous Life of Oscar Wao,The Brief Wondrous Life of Oscar Wao,eng,3.89,160330,Novel; Fiction; Domestic Fiction
+468,468,61120065,Zora Neale Hurston,1937,Their Eyes Were Watching God,Their Eyes Were Watching God,eng,3.87,181106,Novel; Fiction; Psychological Fiction; Literary fiction
+469,469,439321603,"Newt Scamander, J.K. Rowling, Albus Dumbledore",2001,Fantastic Beasts and Where to Find Them,Fantastic Beasts and Where to Find Them,eng,3.95,185928,Fantasy
+470,470,316322407,"Malala Yousafzai, Christina Lamb",2012,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,eng,4.06,214412,Autobiography; Biography
+471,471,141439807,"Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont",1814,Mansfield Park,Mansfield Park,eng,3.84,205064,Bildungsroman
+472,472,080701429X,Viktor E. Frankl,1946,…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager,Man's Search for Meaning,eng,4.33,171281,Psychology
+473,473,670038601,Tana French,2007,In the Woods,"In the Woods (Dublin Murder Squad, #1)",eng,3.74,188024,Mystery
+474,474,618680004,Richard Dawkins,2006,The God Delusion,The God Delusion,eng,3.89,162740,Non-fiction
+475,475,525422943,Gayle Forman,2011,Where She Went,"Where She Went (If I Stay, #2)",en-US,4.06,193141,Fiction
+476,476,345915593,John Irving,1978,The World According to Garp,The World According to Garp,eng,4.07,167106,Humour; Fiction; Literary fiction
+477,477,515141429,Lee Child,1997,Killing Floor,"Killing Floor (Jack Reacher, #1)",eng,4.04,162972,First-person shooter
+478,478,375757325,"Daniel Defoe, Gerald McCann, Virginia Woolf",1719,"The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner",Robinson Crusoe,eng,3.66,178188,Fiction; Adventure fiction
+479,479,937832383,"Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez",1513,Il Principe,The Prince,eng,3.78,153128,Non-fiction
+480,480,440238153,Philip Pullman,2000,The Amber Spyglass,"The Amber Spyglass (His Dark Materials, #3)",eng,4.06,192315,Fantasy
+481,481,765346524,Terry Goodkind,1994,Wizard's First Rule,"Wizard's First Rule (Sword of Truth, #1)",eng,4.13,175771,High fantasy
+482,482,1439153663,Kathleen Grissom,2010,The Kitchen House,The Kitchen House,en-CA,4.18,168082,Fiction; Historical Fiction
+483,483,316769029,J.D. Salinger,1961,Franny and Zooey,Franny and Zooey,en-US,3.98,152906,Novella
+484,484,385720920,Chuck Palahniuk,2001,Choke,Choke,eng,3.69,154643,Satire; Black comedy
+485,485,374528373,"Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky",1880,Братья Карамазовы,The Brothers Karamazov,eng,4.3,155838,Philosophical fiction
+486,486,375822747,Jeanne DuPrau,2003,The City of Ember,"The City of Ember (Book of Ember, #1)",eng,3.85,198809,Post-Apocalyptic fiction; Science Fiction; Children's literature
+487,487,60541814,Michael Crichton,1969,The Andromeda Strain,The Andromeda Strain,,3.87,173186,Techno-thriller
+488,488,451933028,Stephen King,1996,The Green Mile,The Green Mile,eng,4.42,173950,Dark fantasy; Southern Gothic; Magical Realism
+489,489,000100039X,Kahlil Gibran,1923,The Prophet,The Prophet,eng,4.22,142641,Prose poetry
+490,490,394541553,Art Spiegelman,1985,Maus: A Survivor's Tale : My Father Bleeds History,"Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",eng,4.35,184007,Comics; Graphic novel; Biography; Autobiography
+491,491,312379838,"P.C. Cast, Kristin Cast",2008,Untamed: A House of Night Novel,"Untamed (House of Night, #4)",en-US,3.95,191743,Young adult
+492,492,812550757,Orson Scott Card,1986,Speaker for the Dead,"Speaker for the Dead (Ender's Saga, #2)",en-US,4.04,164287,Science Fiction
+493,493,684823780,C.S. Lewis,1952,Mere Christianity,Mere Christianity,eng,4.31,184759,Christian literature; Inspirational Fiction
+494,494,1400031702,Donna Tartt,1992,The Secret History,The Secret History,eng,4.07,168405,Novel; Fiction; Psychological Fiction
+495,495,375725784,Dave Eggers,2000,A Heartbreaking Work of Staggering Genius,A Heartbreaking Work of Staggering Genius,eng,3.68,145459,Memoir
+496,496,553381679,Jean M. Auel,1980,The Clan of the Cave Bear,"The Clan of the Cave Bear (Earth's Children, #1)",eng,4.02,176062,Historical Novel
+497,497,439228905,Anna Sewell,1877,Black Beauty,Black Beauty,eng,3.94,183255,Children's literature
+498,498,192833987,"Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude",1869,Война и миръ,War and Peace,eng,4.11,168037,Novel
+499,499,679735771,Bret Easton Ellis,1991,American Psycho,American Psycho,eng,3.81,166083,Transgressive fiction; Postmodern literature; Satire; Horror fiction
+500,500,613371658,Meg Cabot,2000,The Princess Diaries,"The Princess Diaries (The Princess Diaries, #1)",eng,3.76,193140,Young adult fiction
+501,501,1400034779,Alexander McCall Smith,1998,The No. 1 Ladies' Detective Agency ,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",eng,3.75,180320,Crime Fiction
+502,502,1582406723,"Robert Kirkman, Tony Moore",2004,"The Walking Dead, Vol. 1: Days Gone Bye","The Walking Dead, Vol. 01: Days Gone Bye",en-GB,4.3,164530,Comics; Horror fiction
+503,503,451457994,Arthur C. Clarke,1968,2001: A Space Odyssey,"2001: A Space Odyssey (Space Odyssey, #1)",eng,4.12,170841,Science Fiction
+504,504,1590525132,Francine Rivers,1991,,Redeeming Love,eng,4.48,157506,Fiction; Romance novel; Western; Historical Fiction; Christian Fiction
+505,505,842342702,"Tim LaHaye, Jerry B. Jenkins",1995,Left Behind:  A Novel of the Earth's Last Days,"Left Behind (Left Behind, #1)",eng,3.81,161173,Christian Fiction
+506,506,62059998,Kiera Cass,2014,The One,"The One (The Selection, #3)",eng,4.21,139544,Fiction
+507,507,545265355,Suzanne Collins,2010,The Hunger Games Box Set,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",eng,4.49,129665,Fiction; Science Fiction
+508,508,805063897,Barbara Ehrenreich,2001,Nickel and Dimed: On (Not) Getting By in America,Nickel and Dimed: On (Not) Getting By in America,eng,3.6,152786,Biography; Autobiography; Creative nonfiction
+509,509,593053893,Sophie Kinsella,2008,Remember Me?,Remember Me?,eng,3.76,170096,Comedy; Chick lit
+510,510,812517725,Robert Jordan,1990,The Great Hunt,"The Great Hunt (Wheel of Time, #2)",en-US,4.2,162595,Fantasy
+511,511,743477154,Patricia Cornwell,1990,Post-Mortem:  A Mystery Introducing Dr. Kay Scarpetta,"Postmortem (Kay Scarpetta, #1)",eng,4.01,167379,Crime Fiction
+512,512,385074077,Edgar Allan Poe,1849,The Complete Tales of Edgar Allan Poe,The Complete Stories and Poems,en-US,4.37,160063,Poetry; Fiction
+513,513,553256696,"Corrie ten Boom, John Sherrill, Elizabeth Sherrill",1971,The Hiding Place,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,en-US,4.42,171384,Autobiography; Biography
+514,514,192835084,Arthur Conan Doyle,1892,The Adventures of Sherlock Holmes,The Adventures of Sherlock Holmes,eng,4.29,139816,Short story; Fiction; Crime Fiction; Mystery; Detective fiction; Noir fiction
+515,515,553381547,Pat Conroy,1986,The Prince of Tides,The Prince of Tides,eng,4.22,159596,Drama;Romance
+516,516,312282990,Michael Chabon,2000,The Amazing Adventures of Kavalier & Clay,The Amazing Adventures of Kavalier & Clay,eng,4.17,147717,Historical Fiction
+517,517,802798233,Simone Elkeles,2008,Perfect Chemistry,"Perfect Chemistry (Perfect Chemistry, #1)",eng,4.07,198627,Fiction
+518,518,805072454,"J.M. Barrie, Michael Hague",1904,Peter Pan,Peter Pan,en-US,4.1,169306,Fantasy
+519,519,689865392,Scott Westerfeld,2005,Pretties,"Pretties (Uglies, #2)",eng,3.85,193405,Young adult novel
+520,520,965341984,"Haruki Murakami, Jay Rubin",1994,ねじまき鳥クロニクル [Nejimakidori kuronikuru],The Wind-Up Bird Chronicle,eng,4.17,133408,Novel; Fiction; Science Fiction; Speculative fiction; Psychological Fiction; Fantastique
+521,521,739465511,Michael Connelly,2005,The Lincoln Lawyer ,"The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #16)",eng,4.14,149438,Crime Fiction;Mystery
+522,522,375507256,David Mitchell,2004,Cloud Atlas,Cloud Atlas,eng,4.01,152441,Science Fiction; Drama; Fantasy
+523,523,767902890,Tim O'Brien,1990,The Things They Carried,The Things They Carried,en-US,4.12,168678,Historical Fiction
+524,524,1844137872,Banksy,1988,Wall and Piece,Wall and Piece,eng,3.83,149453,Biography; Exhibition catalogue
+525,525,006197806X,Lauren Oliver,2012,Pandemonium,"Pandemonium (Delirium, #2)",eng,4.07,181656,"Young adult fiction; Science Fiction; Romance novel; Utopian , dystopian fiction"
+526,526,307277887,Jeff Lindsay,2004,Darkly Dreaming Dexter,"Darkly Dreaming Dexter (Dexter, #1)",eng,3.89,150055,Crime Fiction
+527,527,1841493007,Charlaine Harris,2002,Living Dead in Dallas,"Living Dead in Dallas (Sookie Stackhouse, #2)",eng,3.97,190565,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+528,528,765305119,Robert Jordan,1991,The Dragon Reborn ,"The Dragon Reborn (Wheel of Time, #3)",eng,4.23,153809,Fantasy Fiction
+529,529,141439491,"Jonathan Swift, Robert DeMaria Jr.",1726,Gulliver’s Travels,Gulliver's Travels,eng,3.55,168727,Satire; Fantasy
+530,530,743482751,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson",1598,Much Ado About Nothing,Much Ado About Nothing,eng,4.06,175616,Comedy
+531,531,393320979,"Unknown, Seamus Heaney",975,Beowulf,Beowulf,en-US,3.42,155903,Epic poetry
+532,532,1401207529,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",1987,Batman: Year One,Batman: Year One,eng,4.23,145267,Superhero
+533,533,62409859,Harper Lee,2015,Go Set a Watchman,Go Set a Watchman,eng,3.31,138669,Fiction
+534,534,316143472,David Sedaris,2008,When You Are Engulfed in Flames,When You Are Engulfed in Flames,en-US,4.04,150898,Essay
+535,535,316134023,Laini Taylor,2011,Daughter of Smoke & Bone,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",eng,4.04,198283,Fantasy Fiction; Romance; Young adult fiction
+536,536,1409151174,Victoria Aveyard,2015,Red Queen,"Red Queen (Red Queen, #1)",eng,4.08,83354,Young adult fiction
+537,537,1400069289,Charles Duhigg,2011,The Power of Habit,The Power of Habit: Why We Do What We Do in Life and Business,eng,4.03,155977,Self-help book
+538,538,679751521,John Berendt,1994,Midnight in the Garden of Good and Evil,Midnight in the Garden of Good and Evil,eng,3.9,167997,Non-fiction novel
+539,539,1301949825,Colleen Hoover,2012,Hopeless,"Hopeless (Hopeless, #1)",eng,4.34,189938,Romance novel; Fiction
+540,540,142437018,"Frances Hodgson Burnett, Nancy Bond",1905,A Little Princess,A Little Princess,eng,4.2,199872,Children's literature
+541,541,142406252,Sarah Dessen,2004,The Truth About Forever,The Truth About Forever,en-US,4.13,179415,Young adult fiction
+542,542,439861365,C.S. Lewis,1954,The horse and his boy,"The Horse and His Boy (Chronicles of Narnia, #5)",eng,3.9,189671,Christian literature
+543,543,1595143068,Richelle Mead,2010,Last Sacrifice ,"Last Sacrifice (Vampire Academy, #6)",eng,4.42,206792,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance
+544,544,64400026,"Laura Ingalls Wilder, Garth Williams",1935,Little House on the Prairie,"Little House on the Prairie (Little House, #2)",eng,4.18,195424,Fiction
+545,545,380002558,"Margery Williams Bianco, William   Nicholson",1922,The Velveteen Rabbit,The Velveteen Rabbit,eng,4.29,173469,Children's literature
+546,546,60589469,Robert M. Pirsig,1974,Zen and the Art of Motorcycle Maintenance,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,eng,3.76,139411,Philosophical fiction; Autobiographical novel
+547,547,375759239,"H.G. Wells, Arthur C. Clarke",1897,The War of the Worlds,The War of the Worlds,eng,3.8,159752,Science Fiction
+548,548,60887303,Sara Shepard,2006,Pretty Little Liars,"Pretty Little Liars (Pretty Little Liars, #1)",en-US,3.9,156328,Fiction; Mystery; Young adult fiction
+549,549,670241334,Don Freeman,1948,Corduroy,Corduroy,en-US,4.28,160860,Children's literature; Picture book
+550,550,1594200823,Michael Pollan,2006,The Omnivore's Dilemma,The Omnivore's Dilemma: A Natural History of Four Meals,eng,4.17,133271,Non-fiction; Cookbook; Diet book
+551,551,316176486,Kate Atkinson,2013,Life After Life,Life After Life,eng,3.74,138454,Historical Fiction
+552,552,446696129,Nicholas Sparks,2000,The Rescue,The Rescue,en-US,4.1,142092,Fiction; Romance novel; Speculative fiction; Domestic Fiction
+553,553,045057458X,Stephen King,1991,Needful Things,Needful Things,,3.87,153821,Horror fiction
+554,554,385335997,Diana Gabaldon,1993,Voyager,"Voyager (Outlander, #3)",eng,4.38,157395,Historical Novel
+555,555,393315053,"Kenneth Branagh, William Shakespeare",1996,,"Hamlet: Screenplay, Introduction And Film Diary",eng,4.12,156869,Tragedy
+556,556,307348245,Stephen King,1981,Cujo,Cujo,spa,3.65,158215,Horror fiction
+557,557,747560595,Jeffrey Eugenides,1993,The Virgin Suicides,The Virgin Suicides,eng,3.83,159249,Novel;Fiction
+558,558,441012183,Charlaine Harris,2004,Dead to the World,"Dead to the World (Sookie Stackhouse, #4)",eng,4.13,199572,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+559,559,141439599,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",1891,Tess of the d'Urbervilles: A Pure Woman Faithfully Presented,Tess of the D'Urbervilles,eng,3.77,171599,Tragedy; Fiction
+560,560,192840398,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",1856,Madame Bovary,Madame Bovary,eng,3.64,158877,Literary realism
+561,561,394820371,"Norton Juster, Jules Feiffer",1961,The Phantom Tollbooth,The Phantom Tollbooth,en-US,4.22,178432,Fantasy
+562,562,765326353,Brandon Sanderson,2010,The Way of Kings,"The Way of Kings (The Stormlight Archive, #1)",eng,4.64,144822,Fantasy
+563,563,1841493015,Charlaine Harris,2003,Club Dead,"Club Dead (Sookie Stackhouse, #3)",en-GB,4.03,181323,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+564,564,078685197X,Ned Vizzini,2006,It's Kind of a Funny Story,It's Kind of a Funny Story,en-US,4.14,161001,Fiction;Young adult fiction;Comedy
+565,565,765316889,Brandon Sanderson,2007,,"The Well of Ascension (Mistborn, #2)",eng,4.35,150736,Fantasy Fiction
+566,566,,Jojo Moyes,2015,After You,"After You (Me Before You, #2)",eng,3.7,99342,Fiction; Romance novel; Domestic Fiction
+567,567,034552554X,Vanessa Diffenbaugh,2011,The Language of Flowers,The Language of Flowers,eng,4.07,140076,Fiction; Romance novel
+568,568,156389341X,"Frank Miller, Klaus Janson, Lynn Varley",1986,Batman: The Dark Knight Returns,"Batman: The Dark Knight Returns (The Dark Knight Saga, #1)",eng,4.25,135979,Comics; Graphic novel
+569,569,446617792,James Patterson,2005,The Angel Experiment,"The Angel Experiment (Maximum Ride, #1)",eng,4.08,172302,Fiction; Science Fiction; Speculative fiction; Children's literature; Young adult fiction; Adventure fiction
+570,570,1573225517,Nick Hornby,1995,High Fidelity,High Fidelity,eng,3.94,134849,Novel; Fiction
+571,571,446696110,Nicholas Sparks,2003,The Guardian,The Guardian,en-US,4.14,136427,Novel
+572,572,385721676,Margaret Atwood,2003,Oryx and Crake,"Oryx and Crake (MaddAddam, #1)",eng,4,151500,Speculative fiction; Dystopia
+573,573,60574216,John Gray,1998,"Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships","Men Are from Mars, Women Are from Venus",en-US,3.52,113915,Non-fiction; Psychology; Self-help book
+574,574,60899220,Anthony Bourdain,2000,Kitchen Confidential: Adventures in the Culinary Underbelly,Kitchen Confidential: Adventures in the Culinary Underbelly,eng,4,134177,Memoir
+575,575,99244721,Michael Crichton,1999,Timeline,Timeline,en-US,3.83,148563,Science Fiction; Historical Fiction
+576,576,486266893,Voltaire,1759,Candide,Candide,eng,3.76,151471,Satire; Bildungsroman; Philosophical fiction; Picaresque Fiction
+577,577,374480095,Natalie Babbitt,1975,Tuck Everlasting,Tuck Everlasting,eng,3.85,174280,Drama; Fiction; Romance novel; Speculative fiction; Children's literature; Fantasy Fiction
+578,578,2253147699,"Stephen King, Marie Milpois",1983,Christine,Christine,fre,3.72,151160,Horror fiction
+579,579,1713221,P.D. Eastman,1960,Are You My Mother?,Are You My Mother?,eng,4.16,174204,Fiction; Children's literature
+580,580,071483355X,E.H. Gombrich,1950,The Story of Art,The Story of Art,en-US,3.83,164708,Art
+581,581,312642962,Marissa Meyer,2013,Scarlet,"Scarlet (The Lunar Chronicles, #2)",eng,4.3,193766,"Young adult fiction; Romance novel; Science Fiction; Utopian , dystopian fiction"
+582,582,751532711,Robert T. Kiyosaki,1997,"Rich Dad , Poor Dad","Rich Dad, Poor Dad",eng,3.95,153764,Personal finance; Entrepreneurship; Investment; Economics
+583,583,1442426640,Becca Fitzpatrick,2011,Silence ,"Silence (Hush, Hush, #3)",eng,4.16,190722,Historical Fiction
+584,584,670020559,Lev Grossman,2009,The Magicians,The Magicians (The Magicians #1),eng,3.47,147908,Contemporary fantasy; High fantasy; Alternative universe
+585,585,1421501686,"Tsugumi Ohba, Takeshi Obata",2004,デスノート #1 (Desu Nōto) Taikutsu (退屈),"Death Note, Vol. 1: Boredom (Death Note, #1)",eng,4.42,139501,Suspense;Manga;Thriller;Paranormal Fiction
+586,586,689875347,Libba Bray,2003,A Great and Terrible Beauty,"A Great and Terrible Beauty (Gemma Doyle, #1)",eng,3.79,173613,Fantasy Fiction
+587,587,60529709,Jonathan Safran Foer,2002,Everything Is Illuminated,Everything Is Illuminated,eng,3.9,131492,Novel
+588,588,752863886,Robert Ludlum,1986,The Bourne Supremacy,"The Bourne Supremacy (Jason Bourne, #2)",en-US,4.09,142168,Novel; Fiction; Thriller; Suspense; Adventure fiction; Spy fiction
+589,589,425266745,Tammara Webber,2012,Easy,"Easy (Contours of the Heart, #1)",en-CA,4.11,133937,Fiction; Romance novel; Contemporary romance
+590,590,140439447,"Charles Dickens, Jeremy Tambling",1849,David Copperfield,David Copperfield,eng,3.96,150512,Novel
+591,591,316013684,"Sherman Alexie, Ellen Forney",2007,The Absolutely True Diary of a Part-Time Indian,The Absolutely True Diary of a Part-Time Indian,eng,4.11,160607,Young adult fiction
+592,592,679760806,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",1967,Мастер и Маргарита,The Master and Margarita,eng,4.32,131389,Farce; Mysticism; Romance novel; Satire; Modern Literature
+593,593,553383043,Ursula K. Le Guin,1968,A Wizard of Earthsea,"A Wizard of Earthsea (Earthsea Cycle, #1)",en-US,3.99,155042,Fantasy; Bildungsroman
+594,594,763616052,"Kate DiCamillo, Chris Sheban",2000,Because of Winn-Dixie,Because of Winn-Dixie,eng,4,154476,Children's literature
+595,595,743253973,John Knowles,1959,A Separate Peace,A Separate Peace,en-US,3.56,155901,Naturalism
+596,596,385339607,John Grisham,1995,The Rainmaker,The Rainmaker,eng,3.91,137412,Novel; Fiction; Mystery; Suspense; Legal thriller; Legal Story
+597,597,142437239,"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford",1605,Don Quijote de La Mancha,Don Quixote,eng,3.85,134931,Novel
+598,598,6480098,Robin Hobb,1995,Assassin's Apprentice,"Assassin's Apprentice (Farseer Trilogy, #1)",eng,4.14,132777,Fantasy
+599,599,345418921,Douglas Adams,1980,The Restaurant at the End of the Universe,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)",eng,4.22,153838,Comic science fiction
+600,600,385739141,Lauren Kate,2010,Torment,"Torment (Fallen, #2)",eng,3.89,174393,Young adult fiction; Fantasy Fiction; Romance novel; Paranormal fiction
+601,601,723247706,Beatrix Potter,1901,The Tale of Peter Rabbit,The Tale of Peter Rabbit,eng,4.17,162373,Children's literature
+602,602,64405044,"C.S. Lewis, Pauline Baynes",1953,The Silver Chair,"The Silver Chair (Chronicles of Narnia, #4)",eng,3.95,170453,Fiction; Speculative fiction; Children's literature; Fantasy Fiction
+603,603,765316897,Brandon Sanderson,2008,The Hero of Ages,"The Hero of Ages (Mistborn, #3)",eng,4.46,143622,Fantasy Fiction
+604,604,679746048,Susanna Kaysen,1993,"Girl, Interrupted","Girl, Interrupted",eng,3.9,145161,Memoir
+605,605,61173398,Chelsea Handler,2007,"Are You There, Vodka? It's Me, Chelsea","Are You There, Vodka? It's Me, Chelsea",,3.85,127096,Humour; Biography; Autobiography
+606,606,743278909,"Richard Bach, Russell Munson",1970,Jonathan Livingston Seagull,Jonathan Livingston Seagull,en-US,3.8,133728,Spirituality; Self-help; Novella
+607,607,1481426303,Cassandra Clare,2014,City of Heavenly Fire,"City of Heavenly Fire (The Mortal Instruments, #6)",eng,4.48,177796,Fantasy; Adventure
+608,608,920668372,"Robert Munsch, Sheila McGraw",1986,Love You Forever,Love You Forever,en-GB,4.34,159703,Fiction
+609,609,1416524517,Stephen King,2006,Cell,Cell,en-US,3.64,144591,Horror fiction
+610,610,067002581X,Daniel James Brown,2013,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,eng,4.32,113565,Non-fiction
+611,611,618391118,"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",1977,The Silmarillion,The Silmarillion (Middle-Earth Universe),eng,3.87,134106,Mythopoeia; Fantasy
+612,612,451210859,Stephen King,1987,The Drawing of the Three,"The Drawing of the Three (The Dark Tower, #2)",eng,4.23,139052,Fantasy Fiction; Horror fiction; Science Fiction; Western fiction
+613,613,330449605,Kate Morton,2008,The Forgotten Garden,The Forgotten Garden,en-GB,4.12,138377,Fiction; Historical Fiction; Domestic Fiction
+614,614,99428644,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod",1925,Der Prozeß,The Trial,eng,3.98,131856,"Philosophical fiction; Utopian , dystopian fiction; Absurdist fiction; Paranoid fiction"
+615,615,142501557,Sarah Dessen,2002,This Lullaby,This Lullaby,eng,4.03,151829,Fiction; Romance novel; Young adult fiction; Children's literature
+616,616,743275012,Jodi Picoult,2000,Plain Truth,Plain Truth,eng,3.97,128406,Novel
+617,617,385523386,Piper Kerman,2010,Orange Is the New Black: My Year in a Women's Prison,Orange Is the New Black,eng,3.7,127186,Memoir
+618,618,451528018,"Arthur Conan Doyle, Anne Perry",1902,The Hound of the Baskervilles,The Hound of the Baskervilles,eng,4.09,154517,Detective fiction
+619,619,374275637,Daniel Kahneman,2011,"Thinking, Fast and Slow","Thinking, Fast and Slow",eng,4.08,136950,Non-fiction
+620,620,345350499,Marion Zimmer Bradley,1982,The Mists of Avalon,"The Mists of Avalon (Avalon, #1)",eng,4.12,157736,Fantasy
+621,621,689841582,Judy Blume,1970,"Are You There God? It's Me, Margaret","Are You There God? It's Me, Margaret",eng,3.89,151789,Young adult fiction
+622,622,446612707,Nicholas Sparks,2002,Nights in Rodanthe,Nights in Rodanthe,eng,3.82,129807,Drama; Romance novel
+623,623,1476754454,Stephen King,2014,Mr. Mercedes,"Mr. Mercedes (Bill Hodges Trilogy, #1)",eng,3.92,125847,Hardboiled
+624,624,441014941,Charlaine Harris,2007,All Together Dead,"All Together Dead (Sookie Stackhouse, #7)",eng,4.05,162689,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+625,625,375706771,Chris Bohjalian,1997,Midwives,Midwives,en-US,3.97,133155,Novel
+626,626,395389496,Chris Van Allsburg,1985,The Polar Express,The Polar Express,en-US,4.29,168001,Picture book
+627,627,140544518,"Jon Scieszka, Lane Smith",1989,The True Story of the Three Little Pigs,The True Story of the 3 Little Pigs,en-GB,4.29,141945,Children's literature
+628,628,425134350,Tom Clancy,1987,Patriot Games,"Patriot Games (Jack Ryan Universe, #2)",eng,4.11,141674,Techno-thriller
+629,629,61124265,"Paulo Coelho, Margaret Jull Costa",1998,Veronika decide morrer,Veronika Decides to Die,eng,3.69,111856,Fiction; Psychological Fiction
+630,630,385349947,"Sheryl Sandberg, Nell Scovell",2013,"Lean In: Women, Work, and the Will to Lead","Lean In: Women, Work, and the Will to Lead",eng,3.94,135635,Biography
+631,631,441013333,Charlaine Harris,2005,Dead as a Doornail ,"Dead as a Doornail (Sookie Stackhouse, #5)",eng,4.01,169560,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+632,632,62085484,Tahereh Mafi,2011,"Shatter Me (Shatter Me, #1)","Shatter Me (Shatter Me, #1)",en-US,4.01,176433,Young adult fiction; Fiction; Romance novel
+633,633,441783589,Robert A. Heinlein,1959,Starship Troopers,Starship Troopers,en-CA,3.99,136886,Milatary science fiction;Philosophical fiction
+634,634,385342063,Sophie Kinsella,2011,I've Got Your Number,I've Got Your Number,eng,3.93,144533,Chick lit
+635,635,1857993284,"Jostein Gaarder, Paulette Møller",1991,Sofies Verden,Sophie's World,eng,3.88,109692,Philosophical fiction
+636,636,316134112,Mark Cotta Vaz,2011,,"The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)",eng,4.3,188136,Paranormal romance; Young adult fiction
+637,637,553278223,Ray Bradbury,1950,The Martian Chronicles,The Martian Chronicles,en-US,4.12,143236,"Science Fiction; Post-Apocalyptic fiction; Horror fiction; Utopian , dystopian fiction"
+638,638,307592839,Jennifer Egan,2010,A Visit From the Goon Squad,A Visit from the Goon Squad,eng,3.64,120126,Fiction; Psychological Fiction
+639,639,753454947,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",1880,Heidi,Heidi,eng,3.97,144497,Children's literature
+640,640,61015725,Michael Crichton,2002,Prey,Prey,,3.72,131352,Techno-thriller
+641,641,7202326,C.S. Lewis,1956,The Last Battle,"The Last Battle (Chronicles of Narnia, #7)",eng,4.02,158701,Christian literature
+642,642,525950079,Ken Follett,2007,World Without End,"World Without End (The Kingsbridge Series, #2)",eng,4.23,128715,Historical Fiction
+643,643,312360304,"P.C. Cast, Kristin Cast",2008,Chosen: A House of Night Novel,"Chosen (House of Night, #3)",en-US,3.9,180961,Young adult fiction;Paranormal romance
+644,644,,Colleen Hoover,2012,Slammed,"Slammed (Slammed, #1)",eng,4.29,153882,Romance novel; Fiction
+645,645,60874163,Alex Flinn,2007,"Beastly (Beastly, #1, Kendra Chronicles, #1)","Beastly (Beastly, #1; Kendra Chronicles, #1)",eng,3.84,150003,Fantasy
+646,646,140424385,"Geoffrey Chaucer, Nevill Coghill",1390,Tales of Caunterbury,The Canterbury Tales,eng,3.48,148480,Anthology
+647,647,312348649,Emily Giffin,2006,Baby Proof,Baby Proof,en-US,3.71,124371,Fiction; Domestic Fiction
+648,648,375856110,Christopher Paolini,2011,Inheritance,"Inheritance (The Inheritance Cycle, #4)",en-US,4.08,146905,Fantasy
+649,649,307593312,"Haruki Murakami, Jay Rubin, Philip Gabriel",2009,いちきゅうはちよん [Ichi-Kyū-Hachi-Yon],1Q84,eng,3.89,125195,Alternate history; Alternative universe
+650,650,1840224029,Harriet Beecher Stowe,1852,Uncle Tom's Cabin or Life Among the Lowly,Uncle Tom's Cabin,eng,3.83,137858,Novel
+651,651,60809248,"Gaston Leroux, Alexander Teixeira de Mattos",1909,Le Fantôme de l'Opéra,The Phantom of the Opera,eng,3.97,141110,Gothic fiction
+652,652,441014917,Charlaine Harris,2006,"Definitely Dead (Sookie Stackhouse, #6)","Definitely Dead (Sookie Stackhouse, #6)",en-US,4.02,163054,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+653,653,156007754,"José Saramago, Giovanni Pontiero",1995,Ensaio Sobre a Cegueira,Blindness,en-US,4.08,98738,Post-Apocalyptic fiction
+654,654,374158460,Jonathan Franzen,2010,Freedom,Freedom,en-US,3.73,119213,Fiction; Domestic Fiction
+655,655,142421715,Ally Condie,2011,Crossed,"Crossed (Matched, #2)",eng,3.52,100886,"Young adult fiction; Romance novel; Utopian , dystopian fiction"
+656,656,1423100034,Ally Carter,2006,"I'd Tell You I Love You, But Then I'd Have to Kill You","I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",en-US,3.82,150222,Fiction; Young adult fiction; Spy fiction
+657,657,1416562591,Aravind Adiga,2008,The White Tiger,The White Tiger,eng,3.71,114531,Picaresque Fiction
+658,658,1841156736,Jonathan Franzen,2001,The Corrections,The Corrections,eng,3.78,117657,Fiction; Domestic Fiction
+659,659,1921351438,Barack Obama,1995,Dreams from My Father,Dreams from My Father: A Story of Race and Inheritance,eng,3.81,128961,Memoir
+660,660,60541830,Michael Crichton,1980,Congo,Congo,eng,3.55,129811,Adventure fiction
+661,661,689711735,"Judith Viorst, Ray Cruz",1972,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Alexander and the Terrible, Horrible, No Good, Very Bad Day",en-CA,4.22,146073,Child
+662,662,618101365,Jhumpa Lahiri,1999,Interpreter of Maladies,Interpreter of Maladies,eng,4.12,110651,Short story
+663,663,60838655,Howard Zinn,1980,A People's History of the United States: 1492 to Present ,A People's History of the United States,eng,4.07,137372,Non-fiction
+664,664,679745653,Truman Capote,1958,Breakfast at Tiffany's,Breakfast at Tiffany's,eng,3.89,129778,Fiction; Novella
+665,665,345504968,Justin Cronin,2010,The Passage,"The Passage (The Passage, #1)",eng,4.04,126993,Post-Apocalyptic fiction; Horror fiction; Science Fiction; Vampire literature; Fantasy
+666,666,60515198,Neil Gaiman,2005,Anansi Boys,Anansi Boys,eng,4,137639,�Fantasy
+667,667,670011940,Sarah Dessen,2009,Along for the Ride,Along for the Ride,eng,4.08,151721,Young adult fiction
+668,668,159420571X,Celeste Ng,2014,Everything I Never Told You,Everything I Never Told You,eng,3.78,108703,Fiction
+669,669,553383809,"Isabel Allende, Magda Bogin",1982,La casa de los espíritus,The House of the Spirits,en-US,4.2,119930,Autobiographical novel; Magical Realism
+670,670,451155750,Stephen King,1979,The Dead Zone,The Dead Zone,en-US,3.9,132723,Horror fiction
+671,671,646418432,"Agatha Christie, Ροζίτα Σώκου",1920,The Mysterious Affair at Styles,"The Mysterious Affair at Styles (Hercule Poirot, #1)",eng,3.98,135514,Crime Fiction
+672,672,425200450,Agatha Christie,1934,Murder in the Calais Coach,"Murder on the Orient Express (Hercule Poirot, #10)",eng,4.16,138444,Crime Fiction
+673,673,307271080,Chimamanda Ngozi Adichie,2013,Americanah,Americanah,eng,4.26,113252,Novel; Literary fiction
+674,674,446611085,James Patterson,2001,Suzanne's Diary for Nicholas,Suzanne's Diary for Nicholas,eng,4.16,121398,Fiction; Romance novel; Diary fiction
+675,675,451167805,Stephen King,1980,Firestarter,Firestarter,eng,3.85,142213,Thriller; Science Fiction
+676,676,425263924,Sylvia Day,2013,Entwined with You,"Entwined with You (Crossfire, #3)",eng,4.19,141641,Erotic literature; Fiction; Romance novel; Contemporary romance
+677,677,307266303,Christopher McDougall,2009,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen","Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",eng,4.27,109642,Biography; Non-fiction; Guidebook
+678,678,1616203218,Gabrielle Zevin,2014,The Storied Life of A.J. Fikry,The Storied Life of A.J. Fikry,eng,3.98,115393,Fiction; Psychological Fiction
+679,679,590133373,Ludwig Bemelmans,1939,Mad About Madeline,Madeline,en-GB,4.22,156726,Children's literature
+680,680,1585424331,Napoleon Hill,1937,Think and Grow Rich,Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century,eng,4.17,87445,Non-fiction
+681,681,60885378,"Laura Ingalls Wilder, Garth Williams",1932,Little House In The Big Woods,"Little House in the Big Woods (Little House, #1)",eng,4.16,165127,Family saga; Western
+682,682,765356155,Susanna Clarke,2004,Jonathan Strange & Mr Norrell,Jonathan Strange & Mr Norrell,eng,3.8,133683,Fiction; Speculative fiction; Historical Fiction; Alternate history; Fantasy Fiction
+683,683,446696137,Nicholas Sparks,2001,A Bend in the Road,A Bend in the Road,eng,4.02,116800,Fiction; Romance novel; Speculative fiction; Psychological Fiction
+684,684,1423146727,Rick Riordan,2013,The House of Hades,"The House of Hades (The Heroes of Olympus, #4)",eng,4.54,159774,Fantasy; Young adult fiction
+685,685,61448761,Michael  Grant,2008,Gone,"Gone (Gone, #1)",eng,3.85,144606,Supernatural fiction; Horror fiction; Science Fiction; Dystopia; Thriller
+686,686,446615862,Nicholas Sparks,2003,The Wedding,"The Wedding (The Notebook, #2)",en-US,3.98,118045,Fiction; Romance novel; Speculative fiction
+687,687,743226720,David McCullough,2005,1776,1776,eng,4.06,130293,Non-fiction
+688,688,330419129,Jon Krakauer,2003,Under the Banner of Heaven: A Story of Violent Faith,Under the Banner of Heaven: A Story of Violent Faith,eng,3.98,112167,Non-fiction; True crime
+689,689,61928127,Jess Walter,2012,Beautiful Ruins,Beautiful Ruins,eng,3.67,116053,Fiction; Romance novel; Historical Fiction
+690,690,307237699,Barack Obama,2006,The Audacity of Hope: Thoughts on Reclaiming the American Dream,The Audacity of Hope: Thoughts on Reclaiming the American Dream,en-US,3.69,110873,Biography
+691,691,743455967,Stephen King,1999,On Writing: A Memoir of the Craft,On Writing: A Memoir of the Craft,eng,4.31,131481,Autobiography
+692,692,312364083,Kristin Hannah,2008,Firefly Lane,"Firefly Lane (Firefly Lane, #1)",en-US,4.04,121966,Fiction; Saga; Bildungsroman; Domestic Fiction
+693,693,345418972,Michael Crichton,1987,Sphere,Sphere,eng,3.77,128244,Science Fiction; Techno-thriller
+694,694,312348673,Emily Giffin,2008,Love the One You're With,Love the One You're With,en-US,3.7,124812,Fiction; Romance novel
+695,695,316206873,"Robert Galbraith, J.K. Rowling",2014,The Silkworm,"The Silkworm (Cormoran Strike, #2)",eng,4.03,120008,Crime Fiction
+696,696,345476883,Anne Rice,1985,The Vampire Lestat,"The Vampire Lestat (The Vampire Chronicles, #2)",eng,4.05,141299,Gothic;Horror
+697,697,62049801,Ann Patchett,2011,State of Wonder,State of Wonder,eng,3.85,124837,Fiction; Mystery; Adventure fiction
+698,698,374533571,Matthew Quick,2008,The Silver Linings Playbook,The Silver Linings Playbook,en-US,4,110939,Humour; Novel; Fiction; Humorous Fiction
+699,699,076072850X,"Jules Verne, Anthony Bonner",1869,Vingt Mille Lieues Sous les Mers,Twenty Thousand Leagues Under the Sea,eng,3.86,121112,Adventure fiction
+700,700,743272498,Philippa Gregory,2005,The Constant Princess,"The Constant Princess (The Plantagenet and Tudor Novels, #6)",en-US,3.88,124786,Tudor Series
+701,701,151009988,"Virginia Woolf, Maureen Howard",1925,Mrs Dalloway,Mrs. Dalloway,en-US,3.78,136327,Novel; Fiction
+702,702,1843913720,"Jonas Jonasson, Rod Bradbury",2009,Hundraåringen som klev ut genom fönstret och försvann,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,en-GB,3.81,92275,Fiction
+703,703,067102423X,Stephen King,1998,Bag of Bones,Bag of Bones,en-US,3.87,131004,Gothic fiction
+704,704,786226749,John Irving,1985,The Cider House Rules,The Cider House Rules,eng,4.1,124876,Fiction
+705,705,451190750,"Richard Bachman, Stephen King",1984,Thinner,Thinner,en-GB,3.66,130219,Horror fiction
+706,706,014044906X,"Jules Verne, Michael Glencross, Brian W. Aldiss",1872,Le tour du monde en quatre-vingts jours,Around the World in Eighty Days,eng,3.9,117108,Adventure fiction
+707,707,60739495,Sharon Creech,1994,Walk Two Moons,Walk Two Moons,eng,3.95,129350,Young adult fiction
+708,708,60589280,"Paulo Coelho, Margaret Jull Costa",2003,Onze minutos,Eleven Minutes,eng,3.69,102206,Fiction
+709,709,316767727,J.D. Salinger,1953,Nine Stories,Nine Stories,eng,4.19,105138,Short story
+710,710,031610969X,Julie Powell,2005,"Julie & Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen","Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living",eng,3.67,121373,Biography; Autobiography; Non-fiction; Cookbook
+711,711,1416912045,Neal Shusterman,2007,Unwind,"Unwind (Unwind, #1)",eng,4.18,143892,Biopunk; Dystopian Fiction
+712,712,385335989,Diana Gabaldon,1996,"Drums of Autumn (Outlander, #4)","Drums of Autumn (Outlander, #4)",eng,4.34,123736,Historical Fiction
+713,713,399256768,Marie Lu,2013,Prodigy,"Prodigy (Legend, #2)",eng,4.29,149702,Utopian; dystopian fiction; Young adult fiction
+714,714,074348276X,William Shakespeare,1603,The Tragedie of King Lear,King Lear,eng,3.89,135448,Tragedy
+715,715,435233076,Arthur Miller,1949,Death of a Salesman,Death of a Salesman,eng,3.49,132061,Tragedy
+716,716,446579920,Nicholas Sparks,2007,The Choice,The Choice,en-US,3.99,93479,Novel
+717,717,545422906,Kate Egan,2012,,The Hunger Games: Official Illustrated Movie Companion,en-US,4.51,119915,Utopian; dystopian fiction; Adventure fiction; Science Fiction; Drama; Action fiction
+718,718,,William Faulkner,1929,The Sound and the Fury,The Sound and the Fury,eng,3.86,124665,Modern Literature
+719,719,452287588,Eckhart Tolle,2005,A New Earth: Awakening to Your Life's Purpose,A New Earth: Awakening to Your Life's Purpose,eng,4.02,106211,Spirituality; Psychology
+720,720,1591164419,Tite Kubo,2002,BLEACH―ブリーチ―　1,"Bleach, Volume 01",eng,4.21,120004,Adventure fiction; Supernatural fiction
+721,721,1451666179,Allie Brosh,2013,Hyperbole and a Half,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",eng,4.17,118910,Comics; Humour; Autobiography; Graphic novel; Non-fiction comics
+722,722,812513738,Robert Jordan,1992,The Shadow Rising ,"The Shadow Rising (Wheel of Time, #4)",en-US,4.21,122524,Fantasy Fiction
+723,723,192076920X,Gregory David Roberts,2003,Shantaram,Shantaram,eng,4.26,95213,Novel; Fiction; Biography; Autobiography; Suspense; True crime; Adventure fiction; Autobiographical Fiction
+724,724,441015891,Charlaine Harris,2008,From Dead to Worse,"From Dead to Worse (Sookie Stackhouse, #8)",eng,4.01,151095,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+725,725,670032565,"Stephen King, Ned Dameron",1991,The Waste Lands,"The Waste Lands (The Dark Tower, #3)",eng,4.24,117483,Fantasy Fiction; Horror fiction; Science Fiction
+726,726,451188454,Jeffery Deaver,1997,The Bone Collector,"The Bone Collector (Lincoln Rhyme, #1)",en-US,4.18,120541,Crime Fiction
+727,727,375408266,"Bernhard Schlink, Carol Brown Janeway",1995,Der Vorleser,The Reader,eng,3.73,119911,Novel
+728,728,805047905,"Bill Martin Jr., Eric Carle",1967,"Brown Bear, Brown Bear, What Do You See?","Brown Bear, Brown Bear, What Do You See?",eng,4.19,125668,Children's literature
+729,729,553283685,Dan Simmons,1989,Hyperion,"Hyperion (Hyperion Cantos, #1)",eng,4.21,122225,Soft Science Fiction
+730,730,142000698,John Steinbeck,1947,The Pearl of the World,The Pearl,eng,3.41,133264,Fiction
+731,731,61007226,William Peter Blatty,1971,The Exorcist,The Exorcist,en-US,4.14,124467,Horror fiction
+732,732,031612558X,Stephenie Meyer,2009,The Short Second Life of Bree Tanner,"The Short Second Life of Bree Tanner: An Eclipse Novella (Twilight, #3.5)",eng,3.51,145874,Young adult fiction; Fantasy Fiction
+733,733,067976402X,David Guterson,1994,Snow Falling on Cedars,Snow Falling on Cedars,eng,3.8,131945,Novel; Fiction; Mystery; Legal Story
+734,734,440174643,Alex Haley,1976,Roots,Roots: The Saga of an American Family,en-US,4.42,118951,Fiction
+735,735,930289455,"Alan Moore, Brian Bolland, Tim Sale",1988,Batman: The Killing Joke ,Batman: The Killing Joke,eng,4.36,113855,Fiction;Comic;Fantasy Fiction
+736,736,679732764,Ralph Ellison,1952,Invisible Man,Invisible Man,eng,3.84,123073,Bildungsroman; African-American literature; Social commentary
+737,737,374105235,Ishmael Beah,2007,A Long Way Gone. Memoirs of a Boy Soldier,A Long Way Gone: Memoirs of a Boy Soldier,en-US,4.14,116260,Memoir
+738,738,689862202,Robert C. O'Brien,1971,Mrs. Frisby and the Rats of NIMH,"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",,4.13,135978,Science Fiction
+739,739,751514624,Stephen King,1982,Different Seasons,Different Seasons,eng,4.34,105961,�Fiction; Western; Science Fiction; Horror fiction; Speculative fiction; Fantasy Fiction; Comedy horror
+740,740,60529962,"Laura Ingalls Wilder, Garth Williams",1953,The Little House Collection,"The Little House Collection (Little House, #1-9)",,4.33,124320,Fiction; Children's literature
+741,741,143035479,Melissa Bank,1998,The Girls' Guide to Hunting and Fishing,The Girls' Guide to Hunting and Fishing,,3.29,113977,Fiction; Romance novel
+742,742,,Hugh Howey,2012,Wool Omnibus,"Wool Omnibus (Silo, #1)",eng,4.24,81982,Fiction; Science Fiction; Dystopian Fiction
+743,743,380813815,Christopher Moore,2002,"Lamb: The Gospel According to Biff, Christ's Childhood Pal","Lamb: The Gospel According to Biff, Christ's Childhood Pal",en-US,4.26,118576,Humour; Mystery; Adventure fiction; Absurdist fiction; Comic fantasy
+744,744,1577314808,Eckhart Tolle,1997,The Power of Now,The Power of Now: A Guide to Spiritual Enlightenment,eng,4.1,104549,Self-help book; Inspirational Fiction
+745,745,399159010,Jenny  Lawson,2012,Let's Pretend This Never Happened (A Mostly True Memoir),Let's Pretend This Never Happened: A Mostly True Memoir,eng,3.9,118475,Humour; Biography; Autobiography; Autobiographical Fiction
+746,746,553804677,Scott Lynch,2006,The Lies of Locke Lamora,"The Lies of Locke Lamora (Gentleman Bastard, #1)",eng,4.3,118751,Fantasy
+747,747,64471837,Garth Nix,1995,Sabriel,"Sabriel (Abhorsen,  #1)",en-US,4.17,137047,Fantasy Fiction
+748,748,441017150,Charlaine Harris,2009,Dead and Gone,"Dead and Gone (Sookie Stackhouse, #9)",eng,4.01,145157,Fantasy Fiction; Mystery; Gothic fiction; Romance novel
+749,749,1439102767,Jodi Picoult,2013,The Storyteller,The Storyteller,eng,4.26,109313,Fiction; Psychological Fiction
+750,750,1620610078,Jennifer L. Armentrout,2011,Obsidian,"Obsidian (Lux, #1)",eng,4.23,164832,Fiction
+751,751,345418905,Douglas Adams,1982,"Life, the Universe and Everything","Life, the Universe and Everything (Hitchhiker's Guide, #3)",eng,4.19,131562,Comic science fiction
+752,752,1619630621,Sarah J. Maas,2013,Crown of Midnight,"Crown of Midnight (Throne of Glass, #2)",en-CA,4.49,160485,�Fantasy Fiction
+753,753,1932664084,Bryan Lee O'Malley,2004,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life","Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",eng,4.18,126864,Fiction; Graphic novel
+754,754,1416586288,Jeannette Walls,2008,Half Broke Horses: A True Life Novel,Half Broke Horses,eng,4.05,110597,Fantasy
+755,755,61020680,Terry Pratchett,1987,Mort,"Mort (Death, #1; Discworld, #4)",eng,4.22,128450,Fantasy
+756,756,373210086,Julie Kagawa,2010,"The Iron King (The Iron Fey, #1) ","The Iron King (The Iron Fey, #1)",eng,3.92,158063,Fiction; Fantasy Fiction
+757,757,067168390X,Larry McMurtry,1985,Lonesome Dove,Lonesome Dove,en-US,4.47,111498,Western
+758,758,393324826,Mary Roach,2003,Stiff: The Curious Lives of Human Cadavers,Stiff: The Curious Lives of Human Cadavers,eng,4.05,122502,Non-fiction
+759,759,1595143173,Richelle Mead,2011,Bloodlines,"Bloodlines (Bloodlines, #1)",en-US,4.22,140599,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance
+760,760,765342405,Orson Scott Card,1998,Ender's Shadow,"Ender's Shadow (Ender's Shadow, #1)",eng,4.3,115521,Science Fiction
+761,761,385342020,Sophie Kinsella,2009,Twenties Girl,Twenties Girl,eng,3.82,119105,Comedy; Chick lit
+762,762,340606517,Thomas Keneally,1982,Schindler's Ark,Schindler's List,eng,4.34,108338,Biographical Fiction
+763,763,452287065,Toni Morrison,1970,The Bluest Eye,The Bluest Eye,eng,3.99,109944,African-American literature
+764,764,1416563687,Philippa Gregory,2009,The White Queen,"The White Queen (The Plantagenet and Tudor Novels, #2)",eng,3.9,119739,Historical Fiction
+765,765,345350685,"Malcolm X, Alex Haley",1965,The Autobiography of Malcolm X,The Autobiography of Malcolm X,eng,4.29,124805,Autobiography
+766,766,1563892278,"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",1989,Preludes & Nocturnes,Preludes & Nocturnes (The Sandman #1),eng,4.3,122540,Comics; Fiction; Graphic novel; Horror fiction; Fantasy Fiction
+767,767,345465083,Laura Hillenbrand,1999,Seabiscuit,Seabiscuit: An American Legend,en-US,4.2,111497,Biography; Non-fiction
+768,768,038073186X,Dennis Lehane,2003,Shutter Island,Shutter Island,eng,4.07,113718,Gothic fiction; Psychological horror; Crime Fiction
+769,769,553328255,Arthur Conan Doyle,1894,The Complete Sherlock Holmes,The Complete Sherlock Holmes,eng,4.5,109754,Fiction; Mystery
+770,770,198320272,"William Shakespeare, Roma Gill",1599,The Tragedy of Julius Caesar,Julius Caesar,eng,3.65,119933,Tragedy
+771,771,307408841,Erik Larson,2011,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin","In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",eng,3.81,110481,History
+772,772,140449140,"Plato, Desmond Lee",-380,Πολιτεία,The Republic,eng,3.9,110274,Fiction; Reference work; Utopian fiction
+773,773,074347757X,William Shakespeare,1593,The Taming of the Shrew,The Taming of the Shrew,en-US,3.81,126318,Comedy
+774,774,312642970,Marissa Meyer,2014,Cress,"Cress (The Lunar Chronicles, #3)",eng,4.46,162069,Young adult fiction; Romance novel; Science Fiction; Utopian fiction ; dystopian fiction
+775,775,006621131X,Patti Smith,2010,Just Kids,Just Kids,en-US,4.14,106542,Memoir
+776,776,714836257,Phaidon Press,1997,,The Art Book,eng,3.79,102746,Exhibition catalogue
+777,777,767905180,Jane Green,2001,Jemima J,Jemima J,en-US,3.62,101436,Humour; Fiction; Romance novel
+778,778,451527887,"Victor Hugo, Walter J. Cobb",1831,Notre-Dame de Paris,The Hunchback of Notre-Dame,eng,3.97,119851,Romanticism; Gothic fiction
+779,779,140003065X,Rohinton Mistry,1996,A Fine Balance,A Fine Balance,eng,4.34,99252,Historical Fiction
+780,780,836220889,"Bill Watterson, G.B. Trudeau",1987,Calvin and Hobbes,Calvin and Hobbes,en-US,4.61,117788,Comics; Speculative fiction
+781,781,689865406,Scott Westerfeld,2006,Specials,"Specials (Uglies, #3)",eng,3.77,139168,iction; Science Fiction; Speculative fiction; Children's literature; Young adult fiction
+782,782,543898083,Kate Chopin,1899,The Awakening,The Awakening,eng,3.63,125474,Novel; Fiction; Novella; Romance novel; Reference work; Psychological Fiction
+783,783,031237982X,"P.C. Cast, Kristin Cast",2009,Hunted,"Hunted (House of Night, #5)",eng,3.93,138103,Fiction; Young adult fiction; Fantasy Fiction; Adventure fiction
+784,784,1401303277,Mitch Albom,2006,For One More Day,For One More Day,en-US,4.09,102193,Fiction
+785,785,425144372,Tom Clancy,1989,Clear and Present Danger,"Clear and Present Danger (Jack Ryan Universe, #6)",eng,4.08,105317,Techno-thriller
+786,786,60513098,Shel Silverstein,1996,Falling Up,Falling Up,en-US,4.33,111779,�Poetry; Children's literature
+787,787,61992704,Justin Halpern,2010,Sh*t My Dad Says,Sh*t My Dad Says,,3.98,102560,Humor;Biography
+788,788,2020336464,"Irvine Welsh, Eric Lindor Fall",1993,Trainspotting,Trainspotting,fre,4.07,59453,Novel; Fiction; Black comedy; Speculative fiction; Travel literature
+789,789,553803727,Isaac Asimov,1952,Foundation and Empire,Foundation and Empire (Foundation #2),eng,4.2,105595,Science Fiction
+790,790,1878424505,Miguel Ruiz,1997,"The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book",The Four Agreements: A Practical Guide to Personal Freedom,,4.12,97016,Self-help book
+791,791,743296435,Jodi Picoult,2010,House Rules,House Rules,en-US,4.01,111239,Novel; Fiction; Mystery; Psychological Fiction
+792,792,394709306,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",1812,Brüder Grimm: Kinder- und Hausmärchen,The Complete Grimm's Fairy Tales,eng,4.31,116324,Fairy Tale
+793,793,744583276,E.L. Konigsburg,1967,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,eng,4.15,134537,Children's literature
+794,794,1476727651,Stephen King,2013,Doctor Sleep,"Doctor Sleep (The Shining, #2)",eng,4.1,95276,Horror fiction
+795,795,140285679,Nick Hornby,1998,About a Boy,About a Boy,en-US,3.79,101999,Novel; Fiction; Romance novel
+796,796,,Samantha Young,2012,On Dublin Street,"On Dublin Street (On Dublin Street, #1)",eng,4.24,136761,Erotic literature; Romance novel; Fiction; Contemporary romance
+797,797,1434768511,"Francis Chan, Danae Yankoski, Chris Tomlin",2008,Crazy Love: Overwhelmed by a Relentless God,Crazy Love: Overwhelmed by a Relentless God,eng,4.15,106351,Christian literature
+798,798,7173687,Dr. Seuss,1960,"One Fish, Two Fish, Red Fish, Blue Fish","One Fish, Two Fish, Red Fish, Blue Fish",,4.12,117582,Children's literature
+799,799,,Dean Koontz,1987,Watchers,Watchers,,4.16,109595,Fiction; Horror fiction; Suspense; Speculative fiction; Children's literature
+800,800,553213873,Helen Keller,1902,The Story of My Life,The Story of My Life,eng,4.07,107313,Memoir
+801,801,052595127X,Jonathan Tropper,2009,This Is Where I Leave You,This is Where I Leave You,eng,3.88,98645,Fiction; Psychological Fiction; Domestic Fiction
+802,802,446563080,Seth Grahame-Smith,2010,Abraham Lincoln: Vampire Hunter,Abraham Lincoln: Vampire Hunter,en-US,3.7,106336,Humorous Fiction; Horror fiction; History; Thriller
+803,803,1591826039,"Natsuki Takaya, Alethea Nibley, Athena Nibley",1999,フルーツバスケット 1,"Fruits Basket, Vol. 1",eng,4.23,118467,Fantasy; Romance Film; Comedy-drama; Harem
+804,804,743482832,William Shakespeare,1623,The Tempest,The Tempest,en-US,3.8,125178,Romantic comedy
+805,805,1905654944,"P.C. Cast, Kristin Cast",2010,Burned: A House of Night Novel,"Burned (House of Night, #7)",eng,3.98,120763,Young adult fiction;Fantasy;Parnormal romance
+806,806,340829788,"Stephen King, Dave McKean",1997,Wizard and Glass,"Wizard and Glass (The Dark Tower, #4)",eng,4.24,105026,Fantasy fiction;Horror Fiction;Science Fiction
+807,807,385351399,Dave Eggers,2013,The Circle,The Circle,eng,3.46,109412,Science Fiction
+808,808,439813786,Brian Selznick,2007,The Invention of Hugo Cabret,The Invention of Hugo Cabret,eng,4.23,132159,Historical Fiction
+809,809,60776099,"Aldous Huxley, Christopher Hitchens",1932,Brave New World/Brave New World Revisited,Brave New World / Brave New World Revisited,eng,4.16,108124,Science Fiction; Utopian fiction; dystopian fiction
+810,810,1591169151,Bisco Hatori,2003,桜蘭高校ホスト部 1,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club, #1)",eng,4.36,113881,Romantic comedy
+811,811,778316556,Mary Kubica,2014,The Good Girl,The Good Girl,eng,3.81,100936,Fiction; Thriller; Suspense; Psychological Fiction
+812,812,,Abbi Glines,2012,"Fallen Too Far (Too Far, #1)","Fallen Too Far (Rosemary Beach, #1; Too Far, #1)",eng,4.21,138871,Romance novel; Fiction; Contemporary romance
+813,813,1250049377,Rainbow Rowell,2014,Landline,Landline,eng,3.55,113805,Fiction; Romance novel; Domestic Fiction
+814,814,1905654588,"P.C. Cast, Kristin Cast",2008,Tempted,"Tempted (House of Night, #6)",eng,3.96,127387,Young adult fiction; Paranormal romance
+815,815,375706674,Cormac McCarthy,2005,No Country for Old Men,No Country for Old Men,eng,4.12,100513,Thriller
+816,816,7230206,Hilary Mantel,2009,Wolf Hall,"Wolf Hall (Thomas Cromwell, #1)",eng,3.85,102936,Historical Fiction
+817,817,006441034X,Diana Wynne Jones,1986,Howl's Moving Castle,"Howl's Moving Castle (Howl's Moving Castle, #1)",eng,4.3,123945,Novel; Fiction; Speculative fiction; Young adult fiction; Fantasy Fiction
+818,818,2226131906,"Stephen King, William Olivier Desmond",2001,Dreamcatcher,Dreamcatcher,fre,3.59,115855,Science Fiction
+819,819,691096120,Henry David Thoreau,1854,Walden; or Life in the Woods,Walden,eng,3.79,108062,Memoir
+820,820,571225381,Kazuo Ishiguro,1989,The Remains of the Day,The Remains of the Day,eng,4.1,105892,Historical Novel
+821,821,446547654,Nicholas Sparks,2010,The Best of Me,The Best of Me,en-US,3.91,103915,Romance novel
+822,822,224094157,Julian Barnes,2011,The Sense of an Ending,The Sense of an Ending,eng,3.7,94968,Fiction; Psychological Fiction; Literary fiction
+823,823,312938993,Sue Grafton,1982,A is for Alibi,"A is for Alibi (Kinsey Millhone, #1)",en-US,3.82,116026,Mystery
+824,824,1580495931,"Sophocles, J.E. Thomas",-430,Οἰδίπους Τύραννος,"Oedipus Rex  (The Theban Plays, #1)",eng,3.67,119496,Tragedy
+825,825,1400067111,Lisa See,2009,Shanghai Girls,Shanghai Girls (Shanghai Girls #1),eng,3.87,106729,Novel
+826,826,143039091,"Kenneth Grahame, Gillian Avery",1908,The Wind in the Willows,The Wind in the Willows,eng,3.98,124612,Children's literature
+827,827,,Jenny Han,2014,To All the Boys I've Loved Before,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",eng,4.11,136938,Young adult fiction
+828,828,037571457X,"Marjane Satrapi, Mattias Ripa",2000,Persepolis,"Persepolis: The Story of a Childhood (Persepolis, #1)",eng,4.23,117103,Biography; Autobiographical comics
+829,829,1420925431,E.M. Forster,1908,A Room with a View,A Room with a View,eng,3.91,109994,Novel
+830,830,316084239,Kody Keplinger,2010,The DUFF: Designated Ugly Fat Friend,The DUFF: Designated Ugly Fat Friend,en-US,3.86,136736,Fiction; Young adult fiction
+831,831,067001088X,Sarah Dessen,2008,Lock and Key,Lock and Key,eng,4.01,120475,Young adult fiction
+832,832,399151575,J.D. Robb,1995,Naked in Death,"Naked in Death (In Death, #1)",en-US,4.13,78028,Detective fiction
+833,833,385339666,John Grisham,1994,The Chamber,The Chamber,eng,3.76,102715,Novel; Fiction; Mystery; Children's literature; Legal thriller; Legal Story
+834,834,,Stephenie Meyer,2008,Midnight Sun (Partial Draft),"Midnight Sun (Twilight, #1.5)",eng,4.03,138118,Young adult fiction; Fantasy Fiction; Romance novel
+835,835,1569319006,"Masashi Kishimoto, Katy Bridges",1999,NARUTO -ナルト- 巻ノ一 ,"Naruto, Vol. 01: The Tests of the Ninja (Naruto, #1)",eng,4.35,104633,Comics;Graphic Novel
+836,836,812993292,Rachel Joyce,2012,The Unlikely Pilgrimage of Harold Fry,"The Unlikely Pilgrimage of Harold Fry (Harold Fry, #1)",eng,3.89,94012,Humour; Fiction
+837,837,307931889,David Levithan,2012,Every Day,"Every Day (Every Day, #1)",eng,3.99,121863,Fantasy;Romance;Young adult Fiction
+838,838,312861877,Orson Scott Card,1991,Xenocide,"Xenocide (Ender's Saga, #3)",eng,3.77,104467,Science Fiction
+839,839,743477561,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",1596,The Merchant of Venice,The Merchant of Venice,eng,3.78,115621,Analysis
+840,840,440178002,James Clavell,1975,Shōgun,"Shōgun (Asian Saga, #1)",eng,4.37,104339,Non-Fiction
+841,841,451219368,J.R. Ward,2006,"Lover Awakened (Black Dagger Brotherhood, #3)","Lover Awakened (Black Dagger Brotherhood, #3)",eng,4.45,134249,Fiction; Romance novel; Speculative fiction; Fantasy Fiction; Occult Fiction
+842,842,1619634449,Sarah J. Maas,2015,A Court of Thorns and Roses,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",eng,4.29,167848,Fiction; Fantasy Fiction
+843,843,345803574,E.L. James,2012,,"Fifty Shades Trilogy (Fifty Shades, #1-3)",,4.13,76876,Erotic romance novel
+844,844,068983568X,"Bill Martin Jr., John Archambault, Lois Ehlert",1989,Chicka Chicka Boom Boom,Chicka Chicka Boom Boom,eng,4.21,105192,Picture book
+845,845,545132053,Raina Telgemeier,2009,Smile,Smile,eng,4.19,98628,Autobiography; Graphic novel; Non-fiction
+846,846,151010269,"George Orwell, Christopher Hitchens",1950, Animal Farm & 1984,Animal Farm / 1984,eng,4.26,116197,Satire; Political satire
+847,847,140286276,Jacquelyn Mitchard,1996,The Deep End of the Ocean,"The Deep End of the Ocean (Cappadora Family, #1)",en-US,3.84,102733,Novel
+848,848,345457374,Amy Tan,2001,The Bonesetter's Daughter,The Bonesetter's Daughter,en-US,3.98,99926,Fiction; Domestic Fiction
+849,849,60288140,Louise Rennison,1999,"Angus, Thongs and Full-Frontal Snogging","Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)",eng,3.74,112733,Epistolary novel
+850,850,374214913,Robin Sloan,2012,Mr. Penumbra's 24-Hour Bookstore,"Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",eng,3.75,110552,Novel
+851,851,743496310,V.C. Andrews,1979,Flowers in the Attic,"Flowers in the Attic (Dollanganger, #1)",eng,3.79,109063,Gothic fiction; Family saga
+852,852,,"Paul Kalanithi, Abraham Verghese",2016,When Breath Becomes Air,When Breath Becomes Air,eng,4.32,116771,Autobiography; Biography
+853,853,590452037,Jerry Spinelli,1990,Maniac Magee,Maniac Magee,eng,3.86,99831,Fiction; Children's literature; Young adult fiction
+854,854,99285444,Chuck Palahniuk,1999,Invisible Monsters,Invisible Monsters,eng,4,54937,Novel; Transgressive fiction; Satire
+855,855,743482778,William Shakespeare,1601,"Twelfth Night; or, What You Will",Twelfth Night,eng,3.97,119607,Analysis
+856,856,385732562,Lois Lowry,2000,Gathering Blue,"Gathering Blue (The Giver, #2)",eng,3.8,114917,Young adult fiction
+857,857,014240120X,Ellen Raskin,1978,The Westing Game,The Westing Game,eng,4.03,117108,Mystery
+858,858,345539788,Pierce Brown,2014,Red Rising,"Red Rising (Red Rising, #1)",eng,4.26,104939,Science Fiction
+859,859,316033677,Brent Weeks,2008,The Way of Shadows,"The Way of Shadows (Night Angel, #1)",en-US,4.15,109236,Fantasy Fiction
+860,860,812474945,Barbara Kingsolver,1988,The Bean Trees,"The Bean Trees (Greer Family, #1)",eng,3.94,105032,Humour; Fiction; Children's literature; Travel literature; Literary fiction
+861,861,1476712980,Jamie McGuire,2013,Walking Disaster,"Walking Disaster (Beautiful, #2)",eng,4.23,134022,Fiction; Romance novel; Contemporary romance
+862,862,765326361,Brandon Sanderson,2014,Words of Radiance,"Words of Radiance (The Stormlight Archive, #2)",eng,4.77,73572,High fantasy
+863,863,076360013X,"Sam McBratney, Anita Jeram",1988,Guess How Much I Love You,Guess How Much I Love You,en-US,4.36,104690,Fiction; Children's literature; Speculative fiction
+864,864,440221668,Diana Gabaldon,2001,The Fiery Cross,"The Fiery Cross (Outlander, #5)",eng,4.26,103552,Historical Fiction
+865,865,450042685,"Stephen King, John D. MacDonald",1978,Night Shift,Night Shift,en-GB,3.96,104248,Horror fiction
+866,866,1400064562,Peter Benchley,1974,Jaws,Jaws,eng,3.96,102574,Thriller
+867,867,393328627,Nicole Krauss,2005,The History of Love,The History of Love,eng,3.91,98379,Novel
+868,868,142402494,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn",1945,Pippi Långstrump,Pippi Longstocking,eng,4.11,123065,Children's literature
+869,869,1933372605,"Muriel Barbery, Alison Anderson",2006,L'élégance du hérisson,The Elegance of the Hedgehog,eng,3.73,101669,Novel
+870,870,743270754,"Doris Kearns Goodwin, Suzanne Toren",2005,Team of Rivals: The Political Genius of Abraham Lincoln,Team of Rivals: The Political Genius of Abraham Lincoln,eng,4.3,102923,Biography; Non-fiction
+871,871,441018645,Charlaine Harris,2010,Dead in the Family,"Dead in the Family (Sookie Stackhouse, #10)",en-US,3.88,127379,Fantasy Fiction; Mystery; Gothic fiction
+872,872,679720219,"Albert Camus, Stuart Gilbert",1947,La peste,The Plague,en-US,3.97,95803,Philosophical fiction
+873,873,439206480,"Lemony Snicket, Brett Helquist",1999,The Reptile Room,"The Reptile Room (A Series of Unfortunate Events, #2)",eng,3.95,130213,Humour; Novel; Fiction; Steampunk; Mystery; Gothic fiction; Absurdist fiction
+874,874,145162137X,Susannah Cahalan,2012,Brain on Fire,Brain on Fire: My Month of Madness,eng,4,92849,Autobiography
+875,875,61214655,Melissa Marr,2007,Wicked Lovely ,"Wicked Lovely (Wicked Lovely, #1)",en-US,3.69,131034,Young adult fiction; Urban fantasy
+876,876,039515023X,H.A. Rey,1941,Curious George,Curious George,en-CA,4.13,105473,Mystery
+877,877,525457585,"Michael Ende, Ralph Manheim, Roswitha Quadflieg",1979,Die unendliche Geschichte,The Neverending Story,eng,4.17,109110,Fantasy
+878,878,571212921,Sylvia Nasar,1998,A Beautiful Mind,A Beautiful Mind,en-GB,4.12,98276,Children's literature
+879,879,1884365302,"Upton Sinclair, Earl Lee, Kathleen DeGrave",1906,The Jungle,The Jungle,eng,3.72,97468,Children's literature
+880,880,61662690,Kelley Armstrong,2008,The Summoning,"The Summoning (Darkest Powers, #1)",en-US,4.03,132285,Paranormal fiction; Horror fiction; Paranormal romance; Urban fantasy
+881,881,684853949,Oliver Sacks,1985,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,en-US,4.04,102419,Medical history
+882,882,006074815X,Ken Follett,1978,Storm Island,Eye of the Needle,en-US,4.16,93475,Fiction; Thriller; Suspense; Spy fiction; War story
+883,883,1860498809,Margaret Atwood,2000,The Blind Assassin,The Blind Assassin,eng,3.95,98464,Historical Fiction
+884,884,1594747350,Ransom Riggs,2014,Hollow City,"Hollow City (Miss Peregrine’s Peculiar Children, #2)",eng,4.07,73149,Young adult fiction; Horror fiction; Dark fantasy
+885,885,375727345,Andre Dubus III,1999,House of Sand and Fog,House of Sand and Fog,eng,3.83,55381,Fiction
+886,886,356500152,M.R. Carey,2014,The Girl with All the Gifts,The Girl with All the Gifts,eng,3.93,99729,Utopian dystopian fiction
+887,887,067973225X,William Faulkner,1930,As I Lay Dying,As I Lay Dying,eng,3.72,103547,Non-Fiction
+888,888,747532036,Crockett Johnson,1955,Harold and the Purple Crayon,Harold and the Purple Crayon,eng,4.24,107221,Children's literature
+889,889,451218043,J.R. Ward,2006,"Lover Eternal (Black Dagger Brotherhood, #2)","Lover Eternal (Black Dagger Brotherhood, #2)",eng,4.35,137558,Fiction; Romance novel; Speculative fiction; Fantasy Fiction
+890,890,553803735,Isaac Asimov,1953,,Second Foundation (Foundation #3),eng,4.23,96865,Science Fiction
+891,891,451458125,Jim Butcher,2001,Fool Moon ,"Fool Moon (The Dresden Files, #2)",eng,4.04,111371,Science Fiction; Fantasy Fiction
+892,892,316204366,Malcolm Gladwell,2011,David and Goliath,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",eng,3.9,90083,Non-fiction
+893,893,1591169208,"Hiromu Arakawa, Akira Watanabe",2002,鋼の錬金術師 1,"Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)",eng,4.49,93990,Comic
+894,894,61020648,Terry Pratchett,1989,Guards! Guards!,"Guards! Guards! (Discworld, #8)",eng,4.32,108652,Fantasy
+895,895,1400078431,Joan Didion,2005,The Year of Magical Thinking,The Year of Magical Thinking,eng,3.86,94590,Memoir
+896,896,006112429X,Lionel Shriver,2003,We Need to Talk About Kevin,We Need to Talk About Kevin,eng,4.07,101343,Novel
+897,897,1857231589,Arthur C. Clarke,1973,Rendezvous with Rama,"Rendezvous with Rama (Rama, #1)",eng,4.06,93151,Novel
+898,898,345419626,Anne Rice,1988,The Queen of the Damned,"The Queen of the Damned (The Vampire Chronicles, #3)",eng,3.86,110693,Horror fiction;Gothic Fiction
+899,899,159308143X,"Edith Wharton, Maureen Howard",1920,The Age of Innocence,The Age of Innocence,eng,3.93,102646,Novel; Fiction; Romance novel
+900,900,199291152,Richard Dawkins,1976,The Selfish Gene,The Selfish Gene,eng,4.11,96564,Fiction
